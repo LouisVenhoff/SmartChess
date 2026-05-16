@@ -1,0 +1,222 @@
+(footprint "ChessBoard"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 9 -5.9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2194e46d-f5ed-4fff-8108-21b95c7576aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ChessBoard"
+		(at 9 -4.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e712af8b-e0bf-40f3-b1c2-d63cc768ca62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd49196b-10e8-41b7-a2a0-bca1bc1d0307")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "627a8b81-f382-4c1a-81f4-82a7d61c0a23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 0 30)
+		(end 240 30)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "51311c56-5a55-4ab0-b084-b73612f1238c")
+	)
+	(fp_line
+		(start 0 60)
+		(end 240 60)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c2fef63d-b604-41cf-b22f-831ea59660c8")
+	)
+	(fp_line
+		(start 0 90)
+		(end 240 90)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d3507475-cf7a-421b-91fc-7081bda63ffe")
+	)
+	(fp_line
+		(start 0 120)
+		(end 240 120)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dc7b8ec8-981c-41de-a1d6-85402db94de1")
+	)
+	(fp_line
+		(start 0 150)
+		(end 240 150)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3b6ff1da-3283-44d4-ab9b-ac8f6b646eaf")
+	)
+	(fp_line
+		(start 0 180)
+		(end 240 180)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "04dd5d9a-23c3-4c57-89da-99a95f9c3334")
+	)
+	(fp_line
+		(start 0 210)
+		(end 240 210)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "10f79874-5f7e-4957-9ccb-e7be537bf03d")
+	)
+	(fp_line
+		(start 30 0)
+		(end 30 240)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d1274f1a-dfb8-4840-9fa9-cdb4d0d88066")
+	)
+	(fp_line
+		(start 60 0)
+		(end 60 240)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "50e43a5c-eb4c-47ea-ab50-89b6eb2ba676")
+	)
+	(fp_line
+		(start 90 0)
+		(end 90 240)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c6dbdd85-d582-4aab-82ba-a08b4daa50c2")
+	)
+	(fp_line
+		(start 120 0)
+		(end 120 240)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "557bdd67-1365-4247-aa73-d66a0008ceb9")
+	)
+	(fp_line
+		(start 150 0)
+		(end 150 240)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5654c25b-d853-4a15-b307-523e0885d126")
+	)
+	(fp_line
+		(start 180 0)
+		(end 180 240)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "623d43f2-e1cc-4770-9507-31456dc176a9")
+	)
+	(fp_line
+		(start 210 0)
+		(end 210 240)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2c1052fa-f7a4-4749-a754-de9ec642a7d6")
+	)
+	(fp_rect
+		(start 0 0)
+		(end 240 240)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d7d48110-826f-477d-8bf3-ee2633064549")
+	)
+	(fp_text user "Chessboard Footprint"
+		(at 9 -2.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6fd3f186-0283-485f-aa83-d889075c5bb7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
