@@ -416,7 +416,7 @@
         "uuid": "f14972b6-de47-451d-92ca-2832c545b949"
       }
     ],
-    "used_designators": "JP1-3,J1,#FLG1-3,#FLG200-202,F1,TP1-8,TP200-207,SW1-64,SW200-263,C1-69,C100-164,U200,#PWR1-18,#PWR100-262,#PWR365-370,D1-163,D200-263,A1,R1-14,R200-207,IC1-3,IC200",
+    "used_designators": "JP4-5",
     "variants": []
   },
   "sheets": [
