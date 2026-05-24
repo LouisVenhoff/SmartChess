@@ -4046,7 +4046,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 195.072 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -4126,7 +4126,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4206,7 +4206,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4288,7 +4288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 167.132 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -4368,7 +4368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -4856,7 +4856,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -4936,7 +4936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5220,7 +5220,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -5300,7 +5300,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5380,7 +5380,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -5460,7 +5460,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -5540,7 +5540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5724,7 +5724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 252.222 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -5804,7 +5804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6190,7 +6190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6474,7 +6474,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6554,7 +6554,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6634,7 +6634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6816,7 +6816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6998,7 +6998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7282,7 +7282,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7362,7 +7362,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7546,7 +7546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 54.102 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -7626,7 +7626,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7706,7 +7706,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -8194,7 +8194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8274,7 +8274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8864,7 +8864,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9046,7 +9046,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -9126,7 +9126,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9308,7 +9308,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9592,7 +9592,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9672,7 +9672,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9752,7 +9752,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10342,7 +10342,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10524,7 +10524,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10604,7 +10604,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11194,7 +11194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11274,7 +11274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11354,7 +11354,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11434,7 +11434,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -11514,7 +11514,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11594,7 +11594,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11674,7 +11674,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11754,7 +11754,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11936,7 +11936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -12016,7 +12016,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -12096,7 +12096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12686,7 +12686,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -13072,7 +13072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -13356,7 +13356,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 220.98 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -13436,7 +13436,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13720,7 +13720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13800,7 +13800,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 78.74 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -13880,7 +13880,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14164,7 +14164,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 135.89 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14244,7 +14244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14426,7 +14426,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -14506,7 +14506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14690,7 +14690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 139.192 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -14872,7 +14872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 50.8 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -14954,7 +14954,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 111.252 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -15136,7 +15136,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -15318,7 +15318,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15500,7 +15500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -15580,7 +15580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 163.83 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15660,7 +15660,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15742,7 +15742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 224.282 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -15924,7 +15924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 248.92 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16004,7 +16004,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 191.77 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16188,7 +16188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 82.042 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -16268,7 +16268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 			(at 107.95 53.34 0)
 			(hide yes)
 			(show_name no)
