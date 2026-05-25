@@ -4448,7 +4448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -4550,7 +4550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -4652,7 +4652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4754,7 +4754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -5016,7 +5016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5118,7 +5118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5620,7 +5620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5884,7 +5884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -5986,7 +5986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -6088,7 +6088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6270,7 +6270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6372,7 +6372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6714,7 +6714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6896,7 +6896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -7078,7 +7078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7180,7 +7180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7442,7 +7442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7786,7 +7786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -7888,7 +7888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7990,7 +7990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8092,7 +8092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -8354,7 +8354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8456,7 +8456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -8558,7 +8558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8660,7 +8660,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8762,7 +8762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8944,7 +8944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9206,7 +9206,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9388,7 +9388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9490,7 +9490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9832,7 +9832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9934,7 +9934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10036,7 +10036,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10138,7 +10138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10240,7 +10240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10422,7 +10422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -10684,7 +10684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10786,7 +10786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10888,7 +10888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -10990,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11092,7 +11092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11834,7 +11834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12176,7 +12176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12278,7 +12278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -12380,7 +12380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -12482,7 +12482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12584,7 +12584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -12766,7 +12766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12868,7 +12868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -12970,7 +12970,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13152,7 +13152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -13254,7 +13254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13516,7 +13516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 236.22 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13618,7 +13618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 151.13 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13960,7 +13960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -14062,7 +14062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14324,7 +14324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -14586,7 +14586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 66.04 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14770,7 +14770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 38.1 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15034,7 +15034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -15216,7 +15216,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 179.07 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15398,7 +15398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 95.25 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -15822,7 +15822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 123.19 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16084,7 +16084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 208.28 53.34 0)
 			(hide yes)
 			(show_name no)
