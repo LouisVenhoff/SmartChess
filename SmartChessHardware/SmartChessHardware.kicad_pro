@@ -647,6 +647,10 @@
     [
       "8a24ebdb-ebc9-4625-a2bc-a67ea8a86457",
       "I2cLEDs"
+    ],
+    [
+      "29c8dfbe-fde9-4e1f-907e-b0ecf7240343",
+      "PrintAndDrills"
     ]
   ],
   "text_variables": {},
