@@ -440,7 +440,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "02ba9d4c-7738-424f-8779-7e429d67cc23")
-		(at 183.95 154.65)
+		(at 181.707143 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D135"
@@ -2178,7 +2178,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "0735ef26-5635-4e28-b601-22670928d8f9")
-		(at 92.55 123.65 180)
+		(at 92.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D131"
@@ -3271,13 +3271,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "0b9720c0-0b08-46bb-bde4-02a6e047add5")
-		(at 152.035714 33.5 180)
+		(at 151.992857 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D102"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "29bbee03-aaa9-42ba-b650-314f76ed49ab")
+			(uuid "19fa4187-3b9c-4c89-99c2-416d6cee0d79")
 			(effects
 				(font
 					(size 1 1)
@@ -3288,7 +3288,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "e8c84766-0a8c-40a0-949e-1d30ea19443e")
+			(uuid "d9a5cd38-4790-4b46-954b-ebd177d58539")
 			(effects
 				(font
 					(size 1 1)
@@ -3301,7 +3301,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ee39e13c-f323-4ad4-92e3-19dbe6c83474")
+			(uuid "ac7d9fbd-e1f0-47e9-9b31-33f8042d8f49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3314,7 +3314,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e716add3-47bf-415d-9b62-3c3ca6fcea96")
+			(uuid "451f05cd-e820-4521-84e9-d3112ed3e144")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4659,7 +4659,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "0d41ee3f-e5f5-4ff7-948f-769c43e728d7")
-		(at 184.05 182.65 180)
+		(at 183.121429 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D144"
@@ -5594,7 +5594,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "0f27a405-f6a0-4c8f-84bc-a721294ce20a")
-		(at 301.55 213.15)
+		(at 301.55 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D155"
@@ -6099,7 +6099,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "11311602-e326-4330-aeb5-ed8783a223d3")
-		(at 122.05 63.85)
+		(at 122.714286 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D114"
@@ -6412,7 +6412,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "1161a0a8-c396-43fb-881f-f19c13919a46")
-		(at 183.05 63.65)
+		(at 182.142857 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D112"
@@ -7189,7 +7189,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "14272e78-52aa-46e8-8339-ee98ebf8c3b1")
-		(at 153.55 64.15)
+		(at 152.428571 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D113"
@@ -7694,7 +7694,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "152f0afd-79c8-432b-b30e-79e113effa65")
-		(at 181.55 213.15)
+		(at 182.064286 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D151"
@@ -10045,13 +10045,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "252fe272-5248-485b-b470-e8ab881651a0")
-		(at 242.014286 33.5 180)
+		(at 241.971429 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D105"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "2d2ebfb0-4153-46c2-af6d-c80570e9896d")
+			(uuid "35380ca1-a86d-48e0-9d0a-142292d2b6d4")
 			(effects
 				(font
 					(size 1 1)
@@ -10062,7 +10062,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "567a148e-f880-4b03-b2f2-ef33036f9b19")
+			(uuid "2f6f20d8-17a6-4a22-9ff8-5ff24bca3783")
 			(effects
 				(font
 					(size 1 1)
@@ -10075,7 +10075,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47209265-ad49-41a2-8656-9bc3976d5161")
+			(uuid "3765ca72-d0ee-4b99-8de4-93015edb2f70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10088,7 +10088,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "120dd57d-ae21-40cd-a578-d4361760b274")
+			(uuid "40cca0ae-4e47-4cc4-be25-d76ba75b57ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11298,7 +11298,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "27e00184-8868-4457-b602-e837bbe84d7e")
-		(at 214.05 242.65 180)
+		(at 212.478571 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D159"
@@ -12119,7 +12119,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "2dcfa3a6-2ada-4fc4-a747-d4e14f9f93d2")
-		(at 213.05 63.65)
+		(at 211.857143 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D111"
@@ -12432,7 +12432,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "2ede2fd1-4806-418a-9337-8f84027d2bbc")
-		(at 93.05 241.85 180)
+		(at 93.05 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D163"
@@ -12903,7 +12903,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "3005564e-1518-4846-acd7-f11c67de84d9")
-		(at 212.45 93.65 180)
+		(at 212.385714 94 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D120"
@@ -13374,7 +13374,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "31b5b08f-b99a-47a1-9e15-ba60123e4454")
-		(at 152.05 183.15 180)
+		(at 153.264286 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D145"
@@ -14319,7 +14319,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "35dd2e37-55ac-484c-b544-96263247a4ee")
-		(at 122.5 242.5 180)
+		(at 122.907143 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D162"
@@ -14632,7 +14632,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "367f6bbe-acac-4332-9e87-0296f7a882f3")
-		(at 272.45 154.65)
+		(at 271.964286 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D138"
@@ -14945,7 +14945,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "3710eb14-5e2f-42f6-a8fe-73923f0f17e3")
-		(at 272.05 123.35 180)
+		(at 272.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D125"
@@ -15258,13 +15258,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "374c7f16-091e-4a15-a03e-09347bdfc1e2")
-		(at 92.05 34 180)
+		(at 92.007143 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D100"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "6e4f2578-fe17-4313-9125-a5e910472d61")
+			(uuid "9b25648e-186f-4d23-a1f2-cf71974c911d")
 			(effects
 				(font
 					(size 1 1)
@@ -15275,7 +15275,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "c5a44264-0910-4b5f-84ca-aa6a8bc686d1")
+			(uuid "9fedb6ef-9cab-48c5-a6c2-2c82686b17f0")
 			(effects
 				(font
 					(size 1 1)
@@ -15288,7 +15288,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93e28925-14fe-4d21-93fb-62f32df28209")
+			(uuid "7f02e569-1963-49f6-9241-2e992dec7ade")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15301,7 +15301,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "01da688d-6469-4431-8baf-188339caa109")
+			(uuid "b17d51ec-2ef4-455b-8249-5813ea0a8287")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15763,7 +15763,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "3a0e3330-76c2-40ca-9110-388f3f504d2a")
-		(at 182.55 243.35 180)
+		(at 182.621429 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D160"
@@ -16076,7 +16076,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "3a64c658-a03b-410b-8bee-b9fd2a30c778")
-		(at 273.05 213.15)
+		(at 271.678571 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D154"
@@ -16853,7 +16853,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "3ecf8144-70f2-4959-8b6b-e277cba7bdca")
-		(at 181.55 123.65 180)
+		(at 182.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D128"
@@ -18942,7 +18942,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "46a901b7-c372-416c-a17b-6a69ed5cfef3")
-		(at 122.95 153.65)
+		(at 121.535714 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D133"
@@ -20647,7 +20647,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "4ad13bf6-580a-4aa4-a147-ec887b0f03af")
-		(at 122.95 93.15 180)
+		(at 123.221429 94 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D117"
@@ -23096,7 +23096,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "51277c32-13df-49d1-b502-1a581865ee5b")
-		(at 122.05 183.15 180)
+		(at 123.407143 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D146"
@@ -23678,7 +23678,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "51848bd0-5130-44da-ac78-efdfc8c21018")
-		(at 302.55 123.85 180)
+		(at 302.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D124"
@@ -24455,7 +24455,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "53cc271e-baf3-4994-906f-8491ee76fee4")
-		(at 91.45 153.65)
+		(at 91.45 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D132"
@@ -24768,7 +24768,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "549b4af7-0e53-4adc-9573-e61bbdb912e0")
-		(at 242.05 123.65 180)
+		(at 242.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D126"
@@ -26768,7 +26768,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "5c0f7224-7e40-4857-bd60-0ba00970c17c")
-		(at 302.55 183.15 180)
+		(at 302.55 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D140"
@@ -27851,7 +27851,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "5eb1c6bd-7e30-4340-bdff-cc99b3eec64c")
-		(at 272.55 243.35 180)
+		(at 272.192857 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D157"
@@ -30463,7 +30463,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "6ce585cc-d3fa-4768-9277-ca81ca9bc62c")
-		(at 302.05 153.65)
+		(at 302.05 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D139"
@@ -31772,7 +31772,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "75113e92-912e-4a08-af93-1be4ac45e594")
-		(at 94.05 63.65)
+		(at 93 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D115"
@@ -32583,7 +32583,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "7727df7d-7950-4f17-97dc-e96d09452d3b")
-		(at 301.55 92.65)
+		(at 301.55 94)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D123"
@@ -33088,7 +33088,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "77f7063c-24d5-4706-b50c-40c28b5974a4")
-		(at 122.05 123.65 180)
+		(at 122.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D130"
@@ -34589,7 +34589,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "7cd5dd53-99c3-49a8-8010-220f7a610060")
-		(at 302.05 62.65)
+		(at 301 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D108"
@@ -35060,7 +35060,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "7e0ec054-d65e-4464-97be-71f4d7938290")
-		(at 93.55 183.35 180)
+		(at 93.55 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D147"
@@ -35373,7 +35373,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "7e1b5e6e-acd1-453b-b812-90b55ccd7910")
-		(at 212.05 124.15 180)
+		(at 212.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D127"
@@ -35992,13 +35992,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "7f65dce3-2c5f-4c86-aebf-f3bb73413e3e")
-		(at 182.028571 33.5 180)
+		(at 181.985714 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D103"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "a87ae7e9-fd77-441f-a2ac-6dd75c423468")
+			(uuid "caab2f2d-c9c8-41cf-abc9-58f69b0cf606")
 			(effects
 				(font
 					(size 1 1)
@@ -36009,7 +36009,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "5253c6c8-6670-466e-bbee-9569b4f8b661")
+			(uuid "16ae9fec-2af1-4159-9ca1-f283c005bf4b")
 			(effects
 				(font
 					(size 1 1)
@@ -36022,7 +36022,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "439219fd-34df-44e7-9779-c8918b3b6669")
+			(uuid "bc0408b0-4d26-4aab-a12a-8f7cde62e42c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36035,7 +36035,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e021fcf8-8f67-4fd7-a0a7-268d94122c9c")
+			(uuid "7ff0026b-4e75-4cad-9ca1-81ace37351d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36416,7 +36416,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "82663825-37f4-480f-b979-4bf44355a03a")
-		(at 211.95 154.65)
+		(at 211.792857 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D136"
@@ -37193,7 +37193,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "8617761d-f153-4ca6-9b04-a38fe20c600e")
-		(at 151.05 213.65)
+		(at 152.192857 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D150"
@@ -39887,7 +39887,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "8eeb2bcc-64f7-4c58-8b48-92e2125d94ba")
-		(at 302.05 242.85 180)
+		(at 302.05 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D156"
@@ -41082,7 +41082,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "9739377a-126e-43dd-8b8e-9c443345b1e3")
-		(at 153.05 123.65 180)
+		(at 152.55 124.121429 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D129"
@@ -41859,7 +41859,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "985e0180-3b0f-4920-810b-2396367ff1a8")
-		(at 152.95 154.15)
+		(at 151.621429 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D134"
@@ -43450,7 +43450,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "9b656bcd-2cf0-4378-9b45-aeb07cec5054")
-		(at 93.5 93 180)
+		(at 93.5 94 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D116"
@@ -46399,7 +46399,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "a553cfe8-58e9-4a51-aa10-8512037338d0")
-		(at 273.55 63.15)
+		(at 271.285714 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D109"
@@ -46712,7 +46712,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "a63274f6-5700-4ede-a503-b423e2fe3618")
-		(at 241.95 93.65 180)
+		(at 242.107143 94 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D121"
@@ -47758,13 +47758,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "a88afe70-a1c2-4666-9773-4ec31d5013d1")
-		(at 212.021429 33.5 180)
+		(at 211.978572 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D104"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "009f99ce-9fa7-4d68-944b-ece464d0fe7f")
+			(uuid "32029049-7125-4f8d-ad46-b79c262d9569")
 			(effects
 				(font
 					(size 1 1)
@@ -47775,7 +47775,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "95e1f2bd-26c8-4778-a196-e4bc602ffa52")
+			(uuid "9d71e6f9-4e38-4861-a2d6-e564a76c7acd")
 			(effects
 				(font
 					(size 1 1)
@@ -47788,7 +47788,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "50effa38-2f19-4213-8cfe-e7677c7f49f7")
+			(uuid "eefcfc5c-da12-4082-9525-6d2f658f30a9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47801,7 +47801,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e043a8b-766c-4ec2-b368-79d7f41f1dad")
+			(uuid "f9e9bc51-5ec3-4d3a-bbfe-16bd6a0f63d6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48377,7 +48377,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "aa6d63a2-98a4-43d1-a4c5-a4d2d4d4cd6f")
-		(at 243.45 154.15)
+		(at 241.878571 153.242857)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D137"
@@ -52929,7 +52929,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "bfa8d0bc-6d6f-4371-8935-6cf588093413")
-		(at 92.45 213.35)
+		(at 92.45 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D148"
@@ -53784,7 +53784,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "c193ad91-3465-45f6-bf22-4a4f404a83ed")
-		(at 212.55 213.15)
+		(at 211.935714 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D152"
@@ -54097,7 +54097,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "c3c1da7a-1a45-45b0-9837-8d98f0ce54e4")
-		(at 122.55 213.65)
+		(at 122.321429 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D149"
@@ -54410,7 +54410,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "c4ac81ea-c2bb-4df9-bef9-87da6cde0fb4")
-		(at 212.55 183.15 180)
+		(at 212.978571 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D143"
@@ -56839,7 +56839,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "cc0d5c83-bada-4ed4-83b2-b67f98b1ebc4")
-		(at 242.55 213.15)
+		(at 241.807143 212.485714)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D153"
@@ -58316,7 +58316,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "d25bc62d-813b-4c44-a9a4-0f9d1287e782")
-		(at 242.05 182.65 180)
+		(at 242.835714 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D142"
@@ -58979,7 +58979,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "d45a53a4-e056-49cb-a95f-11438d3e53c2")
-		(at 243.55 63.35)
+		(at 241.571429 63.878572)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D110"
@@ -60859,7 +60859,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "d950ef54-5f61-49ae-9dba-145c9a8e37f4")
-		(at 273.55 183.65 180)
+		(at 272.692857 183.364286 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D141"
@@ -62800,13 +62800,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "e1a431a2-b20b-4cd5-882e-0000d11164ba")
-		(at 122.042857 33.85 180)
+		(at 122 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D101"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "94184d76-df66-471d-bec1-58b6c5d47cb9")
+			(uuid "b7e4f5e6-caaf-44d5-b094-69425dcf5edd")
 			(effects
 				(font
 					(size 1 1)
@@ -62817,7 +62817,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "6ade1714-9205-4fcb-89d4-ea8e1ab4e8e6")
+			(uuid "640d5364-6aa3-4705-9215-e5add543bcc8")
 			(effects
 				(font
 					(size 1 1)
@@ -62830,7 +62830,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "934f01bb-ad6b-4db1-b319-21a20ad411dd")
+			(uuid "77ceb6d8-3215-444d-98b1-f81e406a44ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62843,7 +62843,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b385ea5e-e370-499d-ad2a-64504149bab2")
+			(uuid "01074709-59ef-424b-a528-4cc662d600c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63113,13 +63113,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "e28de372-82df-4981-bafc-18aacbe2a650")
-		(at 302 34 180)
+		(at 301.957143 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D107"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "edf8707d-b71f-4ad0-855c-dcda98047a3b")
+			(uuid "4055e2f2-cbe4-4131-93c1-8aaa2d2b0042")
 			(effects
 				(font
 					(size 1 1)
@@ -63130,7 +63130,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "d144c76f-30bf-445f-9105-ca27319b74e4")
+			(uuid "2930c0fe-b3e4-4922-89eb-6d18d2958a80")
 			(effects
 				(font
 					(size 1 1)
@@ -63143,7 +63143,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b048c74-ca5d-48d4-8349-046e86b80321")
+			(uuid "8f79b3e4-310f-4235-9419-717c54811383")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63156,7 +63156,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "58479415-2900-4738-93c5-5ce93ca68d99")
+			(uuid "f3bc26a4-db37-4138-8c7e-56b24e70cdfa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63618,7 +63618,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "e35e9a49-e814-439d-893f-1b0eade896d2")
-		(at 152.05 242.65 180)
+		(at 152.764286 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D161"
@@ -63931,13 +63931,13 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "e36fb9fa-f4cc-47b5-bc56-74c7617c37c8")
-		(at 272.007143 34.15 180)
+		(at 271.964286 34.757143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D106"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "3394be78-6380-4423-a84b-0d3a33e488f6")
+			(uuid "eb0fc1c5-8cb8-4a1f-a2fc-56537a30e080")
 			(effects
 				(font
 					(size 1 1)
@@ -63948,7 +63948,7 @@
 		(property "Value" "WS2812B"
 			(at 0 4 0)
 			(layer "F.Fab")
-			(uuid "b83c1f08-a76f-4073-bbca-15bd3adbe91b")
+			(uuid "b20876f5-a129-4d61-8b10-6570cda562f6")
 			(effects
 				(font
 					(size 1 1)
@@ -63961,7 +63961,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "22ceb7f4-1385-4347-ba17-641c67e8387b")
+			(uuid "bd0841f6-c68b-4e37-b093-fe2ac9693c9e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63974,7 +63974,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "518cf378-8964-42a8-b772-848f1e1630d8")
+			(uuid "2341f784-03c2-4aac-a8ae-f5583b536525")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64550,7 +64550,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "e4f9014b-5ec6-4847-8f97-2e486c9885d7")
-		(at 150.5 93 180)
+		(at 152.942857 94 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D118"
@@ -65021,7 +65021,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "e610c5c2-26f3-4dc1-8ba6-4e861223cf50")
-		(at 182.45 93.15 180)
+		(at 182.664286 94 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D119"
@@ -69922,7 +69922,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "fb8ecf3a-f80a-4b55-aef0-213ab719d102")
-		(at 244.05 242.85 180)
+		(at 242.335714 242.607143 180)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D158"
@@ -70393,7 +70393,7 @@
 	(footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 		(layer "F.Cu")
 		(uuid "fe8097a2-5a6a-4fbd-8ea9-980045fee44e")
-		(at 272 93)
+		(at 271.828571 94)
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D122"
@@ -70914,6 +70914,14 @@
 		(members "152c9290-46e7-4fab-bda0-93921b77c3b7" "cb1ec605-713f-43bf-a1a2-96ed65aa2c2f")
 	)
 	(group ""
+		(uuid "351a601c-9f01-4e25-864c-e24b0d330fe1")
+		(members "11311602-e326-4330-aeb5-ed8783a223d3" "1161a0a8-c396-43fb-881f-f19c13919a46"
+			"14272e78-52aa-46e8-8339-ee98ebf8c3b1" "2dcfa3a6-2ada-4fc4-a747-d4e14f9f93d2"
+			"75113e92-912e-4a08-af93-1be4ac45e594" "7cd5dd53-99c3-49a8-8010-220f7a610060"
+			"a553cfe8-58e9-4a51-aa10-8512037338d0" "d45a53a4-e056-49cb-a95f-11438d3e53c2"
+		)
+	)
+	(group ""
 		(uuid "35a3c023-8d3f-42de-8f36-bcfb93629c8c")
 		(members "09dc95ef-de6e-40eb-9fe7-b0c372758aaa" "c05071a8-98dd-4c04-bfcf-d3899900c468")
 	)
@@ -70970,6 +70978,14 @@
 		(members "7505a91f-8df5-44ba-9a02-ff64738d6398" "adfb17b4-0fff-4a31-b10e-a7c6f5f2f95d")
 	)
 	(group ""
+		(uuid "652ed733-a1f2-4b35-870e-8f5f507c46e8")
+		(members "27e00184-8868-4457-b602-e837bbe84d7e" "2ede2fd1-4806-418a-9337-8f84027d2bbc"
+			"35dd2e37-55ac-484c-b544-96263247a4ee" "3a0e3330-76c2-40ca-9110-388f3f504d2a"
+			"5eb1c6bd-7e30-4340-bdff-cc99b3eec64c" "8eeb2bcc-64f7-4c58-8b48-92e2125d94ba"
+			"e35e9a49-e814-439d-893f-1b0eade896d2" "fb8ecf3a-f80a-4b55-aef0-213ab719d102"
+		)
+	)
+	(group ""
 		(uuid "65caf9fa-f74f-4c11-b294-c6ce1cdd2380")
 		(members "99933158-c1a8-43a3-9e50-9c8ac462f4bd" "af6fcec8-95d4-4067-b7c8-c56b1429a41c")
 	)
@@ -71022,6 +71038,14 @@
 		(members "0dc802bd-83c8-41cb-b726-9bd1798dace2" "209f0266-1d1c-4aff-97c4-f0f803c6e7d6")
 	)
 	(group ""
+		(uuid "9937151c-f327-4f96-ab4e-0e73c7810b23")
+		(members "3005564e-1518-4846-acd7-f11c67de84d9" "4ad13bf6-580a-4aa4-a147-ec887b0f03af"
+			"7727df7d-7950-4f17-97dc-e96d09452d3b" "9b656bcd-2cf0-4378-9b45-aeb07cec5054"
+			"a63274f6-5700-4ede-a503-b423e2fe3618" "e4f9014b-5ec6-4847-8f97-2e486c9885d7"
+			"e610c5c2-26f3-4dc1-8ba6-4e861223cf50" "fe8097a2-5a6a-4fbd-8ea9-980045fee44e"
+		)
+	)
+	(group ""
 		(uuid "9a2fc16a-e033-4349-b855-27274acfc1b0")
 		(members "a4c61839-a439-4bb9-80c4-488cf91f5752" "d59c1ca3-4b32-412c-bfd4-ef42eb5debe0")
 	)
@@ -71032,6 +71056,14 @@
 	(group ""
 		(uuid "9f95409f-2965-4a80-8daa-ffe0140eb26d")
 		(members "0d3b23ba-84a3-4ce8-819e-581e4eeae277" "6721d5b0-1855-4fda-9344-97b2621da1b6")
+	)
+	(group ""
+		(uuid "a083a746-7039-497b-bc48-a181176572fc")
+		(members "02ba9d4c-7738-424f-8779-7e429d67cc23" "367f6bbe-acac-4332-9e87-0296f7a882f3"
+			"46a901b7-c372-416c-a17b-6a69ed5cfef3" "53cc271e-baf3-4994-906f-8491ee76fee4"
+			"6ce585cc-d3fa-4768-9277-ca81ca9bc62c" "82663825-37f4-480f-b979-4bf44355a03a"
+			"985e0180-3b0f-4920-810b-2396367ff1a8" "aa6d63a2-98a4-43d1-a4c5-a4d2d4d4cd6f"
+		)
 	)
 	(group ""
 		(uuid "aa09f087-dc15-4efd-a946-c2c10b7640af")
@@ -71062,6 +71094,14 @@
 		(members "39a27bfb-315b-4241-bf2b-094e78ab3930" "972774a4-177a-4c28-a832-4ed9cea44d43")
 	)
 	(group ""
+		(uuid "c1c08f13-ed8a-4fe7-a53d-164f9991ce09")
+		(members "0d41ee3f-e5f5-4ff7-948f-769c43e728d7" "31b5b08f-b99a-47a1-9e15-ba60123e4454"
+			"51277c32-13df-49d1-b502-1a581865ee5b" "5c0f7224-7e40-4857-bd60-0ba00970c17c"
+			"7e0ec054-d65e-4464-97be-71f4d7938290" "c4ac81ea-c2bb-4df9-bef9-87da6cde0fb4"
+			"d25bc62d-813b-4c44-a9a4-0f9d1287e782" "d950ef54-5f61-49ae-9dba-145c9a8e37f4"
+		)
+	)
+	(group ""
 		(uuid "c278ac6c-a5ec-4447-a12b-1bdaaeb9de25")
 		(members "55096915-1df4-4e35-bd9e-b06a27dced4a" "bcc6fb95-abd7-4b6b-ac3e-213c4384c55f")
 	)
@@ -71076,6 +71116,14 @@
 	(group ""
 		(uuid "ca599f10-390a-4270-8494-743c3956d756")
 		(members "0d3b18da-6ce0-474c-a726-00f9b3ceaed8" "2ae9e0c4-adff-452a-81d9-51c61baa509a")
+	)
+	(group ""
+		(uuid "cb754997-4bdd-4287-aaea-13682f3ade72")
+		(members "0735ef26-5635-4e28-b601-22670928d8f9" "3710eb14-5e2f-42f6-a8fe-73923f0f17e3"
+			"3ecf8144-70f2-4959-8b6b-e277cba7bdca" "51848bd0-5130-44da-ac78-efdfc8c21018"
+			"549b4af7-0e53-4adc-9573-e61bbdb912e0" "77f7063c-24d5-4706-b50c-40c28b5974a4"
+			"7e1b5e6e-acd1-453b-b812-90b55ccd7910" "9739377a-126e-43dd-8b8e-9c443345b1e3"
+		)
 	)
 	(group ""
 		(uuid "d425477f-59a9-43e0-9c42-9e60714a712a")
@@ -71114,8 +71162,24 @@
 		(members "51b85902-816b-4da5-8bfa-849ced1bbde2" "e6fc5363-070d-4a6e-9999-3eeede1c1cb5")
 	)
 	(group ""
+		(uuid "f358b853-8f35-48e7-b8c2-18cc513d0de7")
+		(members "0f27a405-f6a0-4c8f-84bc-a721294ce20a" "152f0afd-79c8-432b-b30e-79e113effa65"
+			"3a64c658-a03b-410b-8bee-b9fd2a30c778" "8617761d-f153-4ca6-9b04-a38fe20c600e"
+			"bfa8d0bc-6d6f-4371-8935-6cf588093413" "c193ad91-3465-45f6-bf22-4a4f404a83ed"
+			"c3c1da7a-1a45-45b0-9837-8d98f0ce54e4" "cc0d5c83-bada-4ed4-83b2-b67f98b1ebc4"
+		)
+	)
+	(group ""
 		(uuid "f9032a00-9b6f-47d3-ac27-d83e147dc301")
 		(members "446e13b5-0c07-45c0-99ff-c2685ebf3c3d" "f9ed03b3-e61f-465a-ba61-1615d96070cf")
+	)
+	(group ""
+		(uuid "f93285f2-7c21-4808-83a7-128244a6c315")
+		(members "0b9720c0-0b08-46bb-bde4-02a6e047add5" "252fe272-5248-485b-b470-e8ab881651a0"
+			"374c7f16-091e-4a15-a03e-09347bdfc1e2" "7f65dce3-2c5f-4c86-aebf-f3bb73413e3e"
+			"a88afe70-a1c2-4666-9773-4ec31d5013d1" "e1a431a2-b20b-4cd5-882e-0000d11164ba"
+			"e28de372-82df-4981-bafc-18aacbe2a650" "e36fb9fa-f4cc-47b5-bc56-74c7617c37c8"
+		)
 	)
 	(embedded_fonts no)
 )
