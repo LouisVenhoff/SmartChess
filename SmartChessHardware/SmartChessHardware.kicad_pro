@@ -518,7 +518,7 @@
     "annotate_start_num": 199,
     "annotation": {
       "method": 0,
-      "sort_order": 1
+      "sort_order": 0
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -632,7 +632,7 @@
         "uuid": "f14972b6-de47-451d-92ca-2832c545b949"
       }
     ],
-    "used_designators": "F1,D264,Print200,JP4-5",
+    "used_designators": "SW200-263,JP4-5,R200-207,F1,D200-264,Print200",
     "variants": []
   },
   "sheets": [
