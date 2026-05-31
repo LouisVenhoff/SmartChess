@@ -4024,7 +4024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00328648-eadc-4c9b-be7e-ca3c7ce51ce4")
-		(property "Reference" "R204"
+		(property "Reference" "R205"
 			(at 199.39 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4088,7 +4088,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R204")
+					(reference "R205")
 					(unit 1)
 				)
 			)
@@ -4266,7 +4266,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "091bf098-cbc5-48a6-81d6-2140a94e88ab")
-		(property "Reference" "R203"
+		(property "Reference" "R204"
 			(at 171.45 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4330,7 +4330,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R203")
+					(reference "R204")
 					(unit 1)
 				)
 			)
@@ -5702,7 +5702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c526e4e-b38d-45ae-92eb-8f778762c947")
-		(property "Reference" "R206"
+		(property "Reference" "R207"
 			(at 256.54 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5766,7 +5766,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R206")
+					(reference "R207")
 					(unit 1)
 				)
 			)
@@ -7524,7 +7524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58dc3b28-2cb4-470e-9925-200e8a48155b")
-		(property "Reference" "R207"
+		(property "Reference" "R200"
 			(at 58.42 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7588,7 +7588,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R207")
+					(reference "R200")
 					(unit 1)
 				)
 			)
@@ -14668,7 +14668,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4949e1c-d0eb-4d22-b9bb-e1cb2c9a0608")
-		(property "Reference" "R202"
+		(property "Reference" "R203"
 			(at 143.51 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14732,7 +14732,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R202")
+					(reference "R203")
 					(unit 1)
 				)
 			)
@@ -14932,7 +14932,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec88e22e-5ead-4c2a-a286-b136e1bfe0bd")
-		(property "Reference" "R201"
+		(property "Reference" "R202"
 			(at 115.57 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14996,7 +14996,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R201")
+					(reference "R202")
 					(unit 1)
 				)
 			)
@@ -15720,7 +15720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb268479-ec8f-40f2-8379-86ee84e972ae")
-		(property "Reference" "R205"
+		(property "Reference" "R206"
 			(at 228.6 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15784,7 +15784,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R205")
+					(reference "R206")
 					(unit 1)
 				)
 			)
@@ -16166,7 +16166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff39d8cf-233f-43b3-9e25-fe1689b8ab8b")
-		(property "Reference" "R200"
+		(property "Reference" "R201"
 			(at 86.36 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16230,7 +16230,7 @@
 		(instances
 			(project "SmartChessHardware"
 				(path "/f14972b6-de47-451d-92ca-2832c545b949/ef711e47-2074-4675-995c-e8c9b46b3f63"
-					(reference "R200")
+					(reference "R201")
 					(unit 1)
 				)
 			)
