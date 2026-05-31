@@ -248,13 +248,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0174ec5c-7ddb-4e40-b4a3-ee58f7e1ab0a")
-		(at 233.347512 103.089212)
+		(at 232.765645 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW221"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "e4ca60ce-ffb4-46a8-9f16-bf7b1e379a03")
+			(uuid "ce84dcac-f27a-4887-b3c4-12952c01d97a")
 			(effects
 				(font
 					(size 1 1)
@@ -265,7 +265,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "eec03c39-c3eb-4f8b-adb5-1ca41ce378fe")
+			(uuid "b3ee4bf3-94fc-4d86-93b2-d6c2afff429d")
 			(effects
 				(font
 					(size 1 1)
@@ -277,7 +277,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6319f584-3cef-43e7-ba0c-2a8e196daeb8")
+			(uuid "f7cacccf-91f1-407f-99ce-90b2e3b01ab1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -288,7 +288,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9a6480c-d658-428f-87f5-48c1a5ab8fe8")
+			(uuid "c63032cc-03e2-4d25-a555-8ded550cbea3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -911,7 +911,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "04357a7c-e0f2-4608-9d28-b2350bf99eee")
-		(at 203.370638 140.713348 90)
+		(at 203.204584 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D228"
@@ -1217,13 +1217,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "045ce777-0b3f-456f-9c85-32f95e6fec4d")
-		(at 111 223)
+		(at 113.042423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW249"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "636de2a2-e78b-4d86-a23c-e03a16a353f6")
+			(uuid "3a4e8045-dbb3-4917-be37-98eb5a2f90ee")
 			(effects
 				(font
 					(size 1 1)
@@ -1234,7 +1234,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "9ef28ff3-d91f-42d8-a338-a2f9e47ab012")
+			(uuid "d1879f6f-1ae4-45d2-99d1-e8d1ed09ae53")
 			(effects
 				(font
 					(size 1 1)
@@ -1246,7 +1246,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cbb7a096-911c-417a-81f4-9ae170afaf71")
+			(uuid "d92bcc5d-eca8-4c54-b408-f57578de8bb6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1257,7 +1257,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "69e1e244-2112-4513-bfeb-81f3b5dbd663")
+			(uuid "bfdcf4ab-6740-41aa-913c-66bc34dc7aeb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1725,13 +1725,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "05cd4cb2-2adc-4fbd-ba60-68ec428bd827")
-		(at 203.370638 133.213348)
+		(at 202.931614 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW228"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "052e0eb0-06c3-40ed-bfda-1b258adfef9c")
+			(uuid "1215c200-ee58-4797-9e5e-dbf03a7e3265")
 			(effects
 				(font
 					(size 1 1)
@@ -1742,7 +1742,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "30fbac5c-b092-4152-8777-f1680126c2b7")
+			(uuid "1fc959c5-ca97-4d24-8352-a2d0bdcc2bf3")
 			(effects
 				(font
 					(size 1 1)
@@ -1754,7 +1754,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "120099a2-59c8-450c-bfaa-cd3cb4bba0ec")
+			(uuid "36df716f-3cf3-48e9-8ebf-488f65cba054")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1765,7 +1765,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "feaee7b5-586f-4d44-a07a-842dc24e4a4c")
+			(uuid "dd529c91-a9c4-4909-bfc2-551370fa0cf4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2965,7 +2965,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "09dc95ef-de6e-40eb-9fe7-b0c372758aaa")
-		(at 233.750372 260.887449 90)
+		(at 232.526912 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D261"
@@ -4161,7 +4161,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "0d3b18da-6ce0-474c-a726-00f9b3ceaed8")
-		(at 203.895601 261.027389 90)
+		(at 202.553824 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D260"
@@ -4467,13 +4467,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0d3b23ba-84a3-4ce8-819e-581e4eeae277")
-		(at 81.84 42)
+		(at 81.84 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW200"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "d92bb074-cb62-4ef7-a248-bdfd2ea24f0b")
+			(uuid "b1356641-a654-4ce6-9aca-a7f520691310")
 			(effects
 				(font
 					(size 1 1)
@@ -4484,7 +4484,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "c27c8597-6990-4fe1-958d-413277171407")
+			(uuid "38dcd6db-5356-4898-b472-552a9706e0c8")
 			(effects
 				(font
 					(size 1 1)
@@ -4496,7 +4496,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b4978dc1-fd12-438a-9f33-1bc650807c5e")
+			(uuid "90b57e42-b9eb-4cce-9d41-f91a6c2fecb5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4507,7 +4507,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8098d8a0-fe99-477d-a8c4-39c14a4b09bd")
+			(uuid "72d84131-eca4-42ac-9e1e-e3d33f1ab174")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4972,7 +4972,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "0dc802bd-83c8-41cb-b726-9bd1798dace2")
-		(at 263.306033 81.428674 90)
+		(at 262.183587 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D214"
@@ -5907,13 +5907,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "10245fc5-0fb7-4b76-9ed4-923999efa509")
-		(at 140.5 222.5)
+		(at 142.842423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW250"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "f16a03d2-1279-433d-ae5b-d709268212f1")
+			(uuid "366edb42-887b-458d-a32e-d93b8842be81")
 			(effects
 				(font
 					(size 1 1)
@@ -5924,7 +5924,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "9c5c602f-029c-40ff-b8b5-b24d7d68c196")
+			(uuid "dce42e88-a2e1-4efd-9877-f240cae10a06")
 			(effects
 				(font
 					(size 1 1)
@@ -5936,7 +5936,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d9f59b5-e77a-4eb5-b18d-68ef83b0d075")
+			(uuid "8f0f7ed2-3998-46ec-9687-99c316fa25c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5947,7 +5947,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e9367d69-8ccb-4ef0-8e57-5139ec2961dc")
+			(uuid "31fe93e1-3c89-4611-927a-4af83d3556ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6725,7 +6725,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "11ee4466-76fb-4afb-9847-f7dba0ce9b05")
-		(at 233.99323 171.521999 90)
+		(at 232.769168 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D237"
@@ -7502,13 +7502,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "152c9290-46e7-4fab-bda0-93921b77c3b7")
-		(at 83.407762 192.857836)
+		(at 83.407762 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW240"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "1e2fef51-aabf-450a-aba0-32a63ece2b55")
+			(uuid "7e041cd7-d45a-4467-b9a2-8a171a1e9e60")
 			(effects
 				(font
 					(size 1 1)
@@ -7519,7 +7519,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "da93b335-0f25-4ad1-9613-b3c97f92f74e")
+			(uuid "c037e096-c519-4a06-b70b-3e57056ed5b2")
 			(effects
 				(font
 					(size 1 1)
@@ -7531,7 +7531,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1fb376ba-bf42-4586-adc0-599eddd77f06")
+			(uuid "eb732f7f-0c3a-44bb-942b-4c85bc43dd04")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7542,7 +7542,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3cb4c8b-c620-49b2-96a4-976d80fa27f0")
+			(uuid "e010c8f2-8ff8-45fd-bcea-fe8c6ef70fc8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8276,13 +8276,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "16cf60ab-1f67-41c0-8431-b04f2890d9ed")
-		(at 202.858546 73.430213)
+		(at 202.600663 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW212"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "5e618d4f-46f3-4388-8b2f-f181c8f2220a")
+			(uuid "b33e0f5f-c58b-4a37-884d-a5a04f3b791e")
 			(effects
 				(font
 					(size 1 1)
@@ -8293,7 +8293,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "1dd1912b-4d75-426f-a06b-629803fc77f5")
+			(uuid "677c7233-e863-4c02-aea6-dc62462fc35b")
 			(effects
 				(font
 					(size 1 1)
@@ -8305,7 +8305,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ffc4558-3ea6-4e11-9cad-5cf7337c62f2")
+			(uuid "51527ea8-a620-4e5f-973c-6d369b5fd19b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8316,7 +8316,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "040ada87-3b41-4372-9b06-399859a8a3eb")
+			(uuid "f0414a58-ba66-44a9-b2f9-0b1bc2f67daf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8468,7 +8468,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "19389df8-7434-426c-b162-70101322134d")
-		(at 83.637718 139.884282 90)
+		(at 83.637718 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D224"
@@ -8774,13 +8774,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "1dccaf00-1a1f-40d4-a812-381fbe2a59ea")
-		(at 112.268563 253.471332)
+		(at 112.152962 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW257"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "66323ccb-895b-4e0d-8b3b-45a0671cb4e5")
+			(uuid "3b8ec235-8228-4dbb-b556-f5e0181a6f96")
 			(effects
 				(font
 					(size 1 1)
@@ -8791,7 +8791,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "9ef118fa-2c20-4ed3-be9c-73fd9c4726b5")
+			(uuid "e648b621-6f6a-4db3-b1e7-9bdbe75b9c3b")
 			(effects
 				(font
 					(size 1 1)
@@ -8803,7 +8803,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9131b9f-5f51-4282-a6eb-c093b26badac")
+			(uuid "9a07eddd-98f2-40ad-b4a4-77da41019b99")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8814,7 +8814,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c360ecb-679c-4794-9a1c-16aa06f028cc")
+			(uuid "89cbb393-e37b-48d3-b524-26c6a7305099")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9077,13 +9077,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "209f0266-1d1c-4aff-97c4-f0f803c6e7d6")
-		(at 262.986033 72.928674)
+		(at 262.427107 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW214"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "31cead98-cbda-4417-8dd5-a55cd5e7a78e")
+			(uuid "e7fc1b9c-688a-4779-b48b-bd776cb02249")
 			(effects
 				(font
 					(size 1 1)
@@ -9094,7 +9094,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "6572a03b-0451-4c7c-a2ce-56943e85875b")
+			(uuid "0936df55-2d24-4af8-9a92-ded410a33c3d")
 			(effects
 				(font
 					(size 1 1)
@@ -9106,7 +9106,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43e26ed9-8284-44c0-99fd-c1b838a931ab")
+			(uuid "d7ed391c-9673-4d34-a56b-b5b7669a0207")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9117,7 +9117,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a4f73c42-eea4-4186-8b47-4ced44da23d8")
+			(uuid "82a4e54b-078f-4510-b0c2-029d59b47ef3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9269,13 +9269,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "22864441-6a7a-424b-bcd5-215a1808983c")
-		(at 111.931925 73.213696)
+		(at 112.860996 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW209"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "96c3f6d6-a366-4455-a845-d4edda97e70e")
+			(uuid "78657b49-d744-4c96-a048-77fe236ca6de")
 			(effects
 				(font
 					(size 1 1)
@@ -9286,7 +9286,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "cdf504ba-fe9d-47df-bf96-94329a5730a6")
+			(uuid "80032093-f1b7-4cff-80fe-44ab9a1e4dd1")
 			(effects
 				(font
 					(size 1 1)
@@ -9298,7 +9298,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "927b8afc-1291-4434-9fb8-6d8e9363339f")
+			(uuid "f489ad3c-dfb2-4538-8b52-bc1874950873")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9309,7 +9309,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "436214fa-a333-4803-89a6-ffea7d4a7afa")
+			(uuid "df8c1362-43f0-4361-9eef-ac4b24b71436")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10358,7 +10358,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "25630cdb-a95e-48a3-bfa6-4a293cd9ce88")
-		(at 140.5 229 90)
+		(at 142.642857 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D250"
@@ -10992,7 +10992,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "27824f54-2c03-4de9-b0c7-a4188550ae68")
-		(at 293.304845 172.012162 90)
+		(at 292.538337 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D239"
@@ -11611,13 +11611,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2ae9e0c4-adff-452a-81d9-51c61baa509a")
-		(at 203.395601 253.027389)
+		(at 202.286511 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW260"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "54c62671-3ca6-47d3-958c-001c0884abbb")
+			(uuid "c1810f32-fb37-46b7-b7a5-85a2fbbfa8ef")
 			(effects
 				(font
 					(size 1 1)
@@ -11628,7 +11628,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "60132cbe-0200-4bf0-a692-7b2439053696")
+			(uuid "a39dbf03-f2b2-44c8-960f-f1c81a7a7f32")
 			(effects
 				(font
 					(size 1 1)
@@ -11640,7 +11640,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23325970-f889-45e6-a770-da22ed02f553")
+			(uuid "2f5c4c6f-f73f-47c9-824f-dc2203eda922")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11651,7 +11651,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a6f69ed-60c5-4ce2-84fe-c24317970146")
+			(uuid "9f9b129e-a53c-4bb0-87e4-b21bed0869e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15571,13 +15571,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "39a27bfb-315b-4241-bf2b-094e78ab3930")
-		(at 173.150238 72.962028)
+		(at 172.68744 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW211"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "2a7a3eba-c51f-41b8-999d-8f49a382a626")
+			(uuid "eb7c8a50-8c9c-41a7-b960-1e530999eab6")
 			(effects
 				(font
 					(size 1 1)
@@ -15588,7 +15588,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "994a6a8c-b13f-431e-b9d5-928b1c411e4d")
+			(uuid "ea5cb62b-4487-476c-87fb-061029971c61")
 			(effects
 				(font
 					(size 1 1)
@@ -15600,7 +15600,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "78ffb791-17fb-46a3-874d-cd7c21eefb51")
+			(uuid "60330fae-496c-4864-8031-e47fc84a8565")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15611,7 +15611,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71c63f1f-c59b-4c50-aef4-58f07d862f50")
+			(uuid "2956326c-32bf-4278-b3b6-88065624c432")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16389,7 +16389,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "3ada25e4-e5b0-4cc6-9da2-fccc936d21d6")
-		(at 232 228.5 90)
+		(at 232.257143 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D253"
@@ -17166,13 +17166,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3f09a761-f5d2-469c-9a78-10a7232b0bbc")
-		(at 81.882799 252.971332)
+		(at 82.108445 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW256"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "0fa7234f-b6b1-4f9d-8c8c-1878a555dbde")
+			(uuid "67f2d5ae-15fc-4695-a61f-dd34ae40034b")
 			(effects
 				(font
 					(size 1 1)
@@ -17183,7 +17183,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "a3494801-1f42-4be3-a423-53d73d1e3bc7")
+			(uuid "96760083-226d-49b7-a2d0-9572611ed345")
 			(effects
 				(font
 					(size 1 1)
@@ -17195,7 +17195,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "65753542-b2b2-4d04-8882-627a6ae139c8")
+			(uuid "45211ee9-272a-4778-808e-8b8ecc229860")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17206,7 +17206,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd80d2d0-293d-49ae-bb72-4e45bfac1319")
+			(uuid "0de4dc40-ae64-4975-aa92-68dd32192623")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17358,7 +17358,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "4036e441-49fd-4bf3-9134-b29ddd753065")
-		(at 292 230.5 90)
+		(at 292 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D255"
@@ -17664,7 +17664,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "40f740f4-d97a-4ea8-81d1-6b11c3b7c61d")
-		(at 143.204252 171.023481 90)
+		(at 143.115416 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D234"
@@ -18128,13 +18128,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4412fdc4-37c0-4b78-8282-d421b43fe97f")
-		(at 170 222.5)
+		(at 172.642423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW251"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "bb2b2a35-02fb-4377-bce5-902b3e6dc6e2")
+			(uuid "a5cc771e-b035-481c-8144-f80b55232a39")
 			(effects
 				(font
 					(size 1 1)
@@ -18145,7 +18145,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "4831fabd-113b-44d7-9c61-9d59626e2d82")
+			(uuid "975aa053-ab1d-49a1-94c6-75645c42c3ad")
 			(effects
 				(font
 					(size 1 1)
@@ -18157,7 +18157,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9da2eaff-b7b2-410a-8a0b-7bd0f3d674c7")
+			(uuid "3f9164d6-47b1-4fac-98d3-e08731292925")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18168,7 +18168,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5231021e-320a-40de-9006-8d87621c654a")
+			(uuid "18a98288-1cb1-4e3c-90ed-66028ad814ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18320,7 +18320,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "446e13b5-0c07-45c0-99ff-c2685ebf3c3d")
-		(at 203.58788 110.871222 90)
+		(at 202.962822 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D220"
@@ -19413,7 +19413,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "4778bcc2-12db-42db-86d1-1596852b54b5")
-		(at 262.694081 111.594338 90)
+		(at 262.888467 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D222"
@@ -19719,7 +19719,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "489906a0-ed49-4940-a98c-3b7232ccdb5f")
-		(at 142.000742 110.75252 90)
+		(at 143.037177 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D218"
@@ -20341,7 +20341,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "4ab77c24-2bd4-4c8d-b5a4-48c91752fc26")
-		(at 112.788916 111.588219 90)
+		(at 113.074355 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D217"
@@ -21118,7 +21118,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "4b718d17-390f-4824-8420-a8cd71dfbec8")
-		(at 202.5 229 90)
+		(at 202.385714 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D252"
@@ -21424,13 +21424,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4bea8cc3-04df-4c09-a0f2-71945a044293")
-		(at 263.194081 103.594338)
+		(at 262.728467 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW222"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "0f39ac8e-9a63-45ef-ad15-f0354166ae6c")
+			(uuid "f98292c9-b4bf-4471-920d-d9515d5fa89c")
 			(effects
 				(font
 					(size 1 1)
@@ -21441,7 +21441,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "525f2edf-415b-4b62-bbaa-1b62e7691160")
+			(uuid "d36981e5-416f-436b-872d-cbc2077fe7d4")
 			(effects
 				(font
 					(size 1 1)
@@ -21453,7 +21453,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7bea97c2-4417-401f-9d91-f7eff9e827e4")
+			(uuid "4c6bd909-eb06-49d8-a891-091a33db15b2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21464,7 +21464,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0ffd9b4b-ee69-4919-85a5-b1d247880362")
+			(uuid "4688de13-4c1b-44ef-b80d-f0ca93c88422")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22248,13 +22248,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4feed2f1-a333-427d-8f21-b28777a9d400")
-		(at 142.000742 103.25252)
+		(at 142.877177 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW218"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "692b32e8-b665-4de5-a649-f16b9e26cbfd")
+			(uuid "10811655-6f9c-4314-9bed-ff55884b0488")
 			(effects
 				(font
 					(size 1 1)
@@ -22265,7 +22265,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "27e5b4ce-da98-48f8-b813-403b33e8bbcc")
+			(uuid "242c6f97-f214-4df1-a54c-af87fceeb3b3")
 			(effects
 				(font
 					(size 1 1)
@@ -22277,7 +22277,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6b100a71-15b8-4d21-aa47-94c4ff4413d7")
+			(uuid "d071c516-26aa-4e29-9ceb-b4dc770fb5ff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22288,7 +22288,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f8540808-d662-4250-8af4-a11734f153aa")
+			(uuid "1a779f0d-afb9-42e8-9e58-9213591c1d34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22598,7 +22598,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "50a8f3f1-77fb-49c0-8999-d1efc589b724")
-		(at 141.999259 260.176324 90)
+		(at 142.607648 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D258"
@@ -22904,13 +22904,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "50bb53e6-6a04-420f-856e-d346a29acf6a")
-		(at 263 43)
+		(at 262.173429 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW206"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "8405a97e-34a7-41e4-be54-c5f48ded7db7")
+			(uuid "9f24ed0e-61de-4afe-ba55-63dcde1f9379")
 			(effects
 				(font
 					(size 1 1)
@@ -22921,7 +22921,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "e12f96e4-11b5-46a3-afc5-2f8d8de1837a")
+			(uuid "d7107f7d-04a0-4f5e-8f45-22b3d7b29177")
 			(effects
 				(font
 					(size 1 1)
@@ -22933,7 +22933,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c689a798-449a-4dd9-809e-adc4f4a3d866")
+			(uuid "9b52a490-5da4-40a8-abab-6c6ab7545f5d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22944,7 +22944,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "72f97faa-7138-426a-ab2a-4a9147eb443c")
+			(uuid "91c66184-8bde-476c-bb03-a8514651cc8b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23991,13 +23991,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "51b85902-816b-4da5-8bfa-849ced1bbde2")
-		(at 293.194155 110.360274 90)
+		(at 292.85129 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D223"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "b285ef90-29ae-402a-95d2-78e42b6bfc02")
+			(uuid "2b39393d-b920-4f26-a1e1-cb9c248ae118")
 			(effects
 				(font
 					(size 1 1)
@@ -24008,7 +24008,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "6a530b2c-86dd-4a5c-9399-6d05975bb786")
+			(uuid "a9b8b8bb-daf2-4180-aaa1-8bfc590c85e0")
 			(effects
 				(font
 					(size 1 1)
@@ -24021,7 +24021,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9fa04f32-e489-477a-af34-95dd82cc0e32")
+			(uuid "cbd1701d-83d3-4821-8647-06c175520165")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24034,7 +24034,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ea4a922-5ae2-4dab-b9db-06d56ee295fe")
+			(uuid "34d641b8-826f-4b06-85f9-1d6912b66f1e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25081,13 +25081,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "55096915-1df4-4e35-bd9e-b06a27dced4a")
-		(at 292.194415 252.892738)
+		(at 292.420061 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW263"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "0a11d830-a5fd-473e-a14d-a7f128b36610")
+			(uuid "c92a4093-4acd-4bb4-a38e-1a856d57f4a8")
 			(effects
 				(font
 					(size 1 1)
@@ -25098,7 +25098,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "f751928c-beb6-4f52-bc8c-2718aa931ec5")
+			(uuid "e0c24c47-52b1-468e-bed4-99ba72257bc5")
 			(effects
 				(font
 					(size 1 1)
@@ -25110,7 +25110,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52a1595a-d956-43b4-aff3-73ceaf42bdb9")
+			(uuid "e0901566-ff7d-47c3-959e-10d00ba40e6f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25121,7 +25121,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a604c2b6-fb2b-441a-b7fb-d06e609be9fd")
+			(uuid "520f172d-5246-47aa-9523-e4ca10998ce4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25273,7 +25273,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "55f30a4f-182d-4ffd-b572-08c5deff47e0")
-		(at 113.138459 171.613496 90)
+		(at 113.230831 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D233"
@@ -25737,7 +25737,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "585b836f-9cac-42ec-ae1c-e80a3dbeffeb")
-		(at 143.244341 140.5 90)
+		(at 143.421151 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D226"
@@ -26304,7 +26304,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "5bad307d-ed99-4570-8022-7e17a3be4016")
-		(at 84.112755 171.678548 90)
+		(at 83.346247 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D232"
@@ -27239,7 +27239,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "5d72d08e-ff57-4f86-89f4-4f61797a7bef")
-		(at 264.329067 201.535643 90)
+		(at 263.141848 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D246"
@@ -27545,13 +27545,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "5da85320-fe18-4973-87b7-67f2bdbed561")
-		(at 141.5 48.5 90)
+		(at 142.065429 49 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D202"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "6b9d5060-da7b-4ba4-88c0-4cea4d0b7c45")
+			(uuid "c6803ac2-31bb-4000-a749-c2f837174d57")
 			(effects
 				(font
 					(size 1 1)
@@ -27562,7 +27562,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "53fc1b3b-4ea5-4082-b80a-e394438c8e5e")
+			(uuid "c5acf53b-f12c-40a2-aa7b-60689cde5f76")
 			(effects
 				(font
 					(size 1 1)
@@ -27575,7 +27575,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "96fea463-ec9a-46d0-89d9-32c77748a747")
+			(uuid "86db6a16-10c1-42cf-81bf-945e27fc081b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27588,7 +27588,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "612bfa95-72e6-411d-8661-4268c72946fc")
+			(uuid "ecb7b839-a96d-4d9d-ab26-2f731ef40910")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28164,13 +28164,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5f6b1b2e-dedd-4b93-b49d-5e303107be07")
-		(at 262.969008 252.892738)
+		(at 262.375544 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW262"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "98008a07-8065-487d-91f0-f5d5347b2926")
+			(uuid "1c162471-3ab0-4964-8ea7-1d915267d82f")
 			(effects
 				(font
 					(size 1 1)
@@ -28181,7 +28181,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "6116bd20-916f-45dd-aa72-6b978e9cc9ec")
+			(uuid "c8a39029-1d64-4cf8-8e15-2e1a25feea96")
 			(effects
 				(font
 					(size 1 1)
@@ -28193,7 +28193,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a8835d3d-efc5-4c3d-9b53-abb3ee794d06")
+			(uuid "9f16f3c8-9f54-4bae-ac2d-fa3a501dc1f3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28204,7 +28204,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f34aafd4-5757-45e6-98bd-d13f8f0cbed3")
+			(uuid "e126e69b-cd49-4385-b738-e36eef5326c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28617,7 +28617,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "61340ab2-e607-4aa4-86ca-e7dc115180fb")
-		(at 233.003066 200.355613 90)
+		(at 233.186167 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D245"
@@ -28923,7 +28923,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "62c4091b-f6a5-49cd-b165-cb7a03430320")
-		(at 83.454397 112.164201 90)
+		(at 83.111532 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D216"
@@ -29229,7 +29229,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "646b6eca-6bb9-4935-b7f9-12b04067b2cf")
-		(at 234.393378 140.408504 90)
+		(at 233.096301 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D229"
@@ -29535,13 +29535,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "647a9af0-a42f-4f58-9b33-880dd978af04")
-		(at 111.5 48.5 90)
+		(at 112.032714 49 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D201"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "ad9d7761-bc3e-43a0-9baf-12aebc88fda8")
+			(uuid "b1242836-9866-4ad9-8cd0-c8e69b3770a6")
 			(effects
 				(font
 					(size 1 1)
@@ -29552,7 +29552,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "af845433-2586-4049-a409-3152b5fac989")
+			(uuid "7e4064b7-6e6b-48ff-a459-b9e97e69da89")
 			(effects
 				(font
 					(size 1 1)
@@ -29565,7 +29565,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c5aa5eb7-5da2-40ec-bb33-301a84653d2b")
+			(uuid "b490877a-2afe-4075-a592-972dcc5681c9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29578,7 +29578,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a55e8dd-6b92-4cfd-8406-9b8f341cf48f")
+			(uuid "75e35d26-bd45-40f1-a3d7-0a5c5d7c8509")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30005,7 +30005,7 @@
 		(property "Reference" "D200"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "3466038a-5fa5-4697-87ea-874e8aa1992d")
+			(uuid "e2fe5855-1cb5-430d-a59d-329acadaf76a")
 			(effects
 				(font
 					(size 1 1)
@@ -30016,7 +30016,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "5c41d7fb-7300-4541-9cee-64d991899a67")
+			(uuid "6cfaadb2-3685-456f-9d83-deab33d756ca")
 			(effects
 				(font
 					(size 1 1)
@@ -30029,7 +30029,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "131ab515-2b9c-45e1-a76f-247c32526658")
+			(uuid "b912d025-bdf3-44cd-89bb-8237ded7734a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30042,7 +30042,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd95cd80-b182-4c5a-933c-bb6ff76b12f6")
+			(uuid "54aaa8df-3f84-403a-8bfa-786a73455594")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30776,13 +30776,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "6da5c8dc-8cbe-4ce7-be6e-7313db4e289c")
-		(at 172 49.5 90)
+		(at 172.098143 49 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D203"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "d5e23641-1cfc-4d11-b396-67020c3cbf98")
+			(uuid "1c67159b-a565-4e44-b746-855f2ba65eb4")
 			(effects
 				(font
 					(size 1 1)
@@ -30793,7 +30793,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "6d1d9612-d237-4772-90c2-8cdc2d2c0239")
+			(uuid "b3fedaf3-a4b6-4969-aa72-82f73d959521")
 			(effects
 				(font
 					(size 1 1)
@@ -30806,7 +30806,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb1a5ed7-7322-42db-9683-46df2ed11775")
+			(uuid "9333d6f0-a943-4d5b-b8df-c848ccd4ff1d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30819,7 +30819,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35eaec42-5dbc-4a1a-9c02-a9c9c95002e9")
+			(uuid "cdea2ab2-1ac8-41a9-ae46-e04522cbffc5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31082,13 +31082,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7000409e-d024-4d67-b36d-590770b846b6")
-		(at 83.637718 133.384282)
+		(at 83.650462 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW224"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "d9b10555-f266-454e-88c1-d34d56d6d83f")
+			(uuid "bb4083c6-95de-4869-aec4-c1a08299eb1f")
 			(effects
 				(font
 					(size 1 1)
@@ -31099,7 +31099,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "b40e2b0f-db97-4a54-8de1-9de3fec325d9")
+			(uuid "e5c3686d-c981-4f6e-adf6-5853f12fc80a")
 			(effects
 				(font
 					(size 1 1)
@@ -31111,7 +31111,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e80c7212-cd83-4a83-a04c-b378f7516630")
+			(uuid "43963588-1f67-4312-b705-f987fb292307")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31122,7 +31122,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "108f0996-6906-4d8c-8889-4ef6e25994fc")
+			(uuid "98d6ae8d-2ba0-42fb-b283-8e7bae4e0189")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31274,13 +31274,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "72c3a156-c881-48b8-8aab-c60d9f71660e")
-		(at 83.454397 103.164201)
+		(at 82.951532 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW216"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "8d849fd4-07d4-4f6f-89bc-ca805011fa47")
+			(uuid "603b4125-0dfb-4eac-8fb7-9c4bc60daaf0")
 			(effects
 				(font
 					(size 1 1)
@@ -31291,7 +31291,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "3c8d6a0f-a9b9-4466-a923-57974f48fb2e")
+			(uuid "1b38dc9d-e4dc-46dd-b472-d6547533bb91")
 			(effects
 				(font
 					(size 1 1)
@@ -31303,7 +31303,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "51f26fa6-4c84-49c6-aad0-acc8c37bc5dd")
+			(uuid "d34ca215-f611-46a4-866f-b3dfd0f86467")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31314,7 +31314,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4fa9b2f7-4591-4b8a-9d1b-a6ba051bccda")
+			(uuid "dea614a5-75a1-47d8-9d23-5c453187dae0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31466,7 +31466,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "7505a91f-8df5-44ba-9a02-ff64738d6398")
-		(at 292.160329 82 90)
+		(at 292.025381 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D215"
@@ -32085,7 +32085,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "76092a7c-435c-45f6-9c48-09902b904988")
-		(at 82.382799 260.971332 90)
+		(at 82.661472 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D256"
@@ -32391,13 +32391,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "76e0fa07-b564-406d-850c-b8a6dea95a9a")
-		(at 292.379734 133.128623)
+		(at 292.392478 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW231"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "02a9bf6b-a601-47e9-b856-931ad4f7a8e2")
+			(uuid "d07182fa-d06c-4294-ba1e-67ed1d3ae8a1")
 			(effects
 				(font
 					(size 1 1)
@@ -32408,7 +32408,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "299cdb09-d90f-4720-af12-e2864ea76d57")
+			(uuid "09bf77f4-c1de-485b-b440-ac53996e0e12")
 			(effects
 				(font
 					(size 1 1)
@@ -32420,7 +32420,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1f8e95e8-3fcb-4911-a286-25878d1c6687")
+			(uuid "b72bc445-367c-49fd-9185-2f3d95f3b91b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32431,7 +32431,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ba746c1-8b8e-4eec-8de1-dec89fbdae0d")
+			(uuid "39f8deda-a68c-4d75-8e08-c2e3abf9ad5e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32896,13 +32896,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7778160c-d8be-4fdc-b97e-7d20d614fb50")
-		(at 291.5 222.5)
+		(at 291.842423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW255"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "b33666bd-4b5a-4fb2-b6b3-143abe85c36b")
+			(uuid "919bc6ec-f6a4-4f76-95a7-0d42dd58ffcf")
 			(effects
 				(font
 					(size 1 1)
@@ -32913,7 +32913,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "e603b611-cdd4-4fb8-aaeb-99dcfe429945")
+			(uuid "d2ea2429-99b1-4abd-ae63-5a22abfabe56")
 			(effects
 				(font
 					(size 1 1)
@@ -32925,7 +32925,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb7eb5ee-4d0d-40c7-bb26-762a3d0f0b81")
+			(uuid "93c53138-fef2-4bfd-9b33-fda1dd9c2fbb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32936,7 +32936,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "999e5be7-c9f8-43f7-b100-c498a7438a64")
+			(uuid "69db10c7-e3a4-4816-ae6b-9dcc9c3705de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33401,7 +33401,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "7913acab-c5bf-4f3c-9bb5-f435b6e673de")
-		(at 263.35403 141.614237 90)
+		(at 262.988017 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D230"
@@ -33707,13 +33707,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "79e31656-70d3-4859-bf63-3218f8efb10e")
-		(at 113.588533 133.294267)
+		(at 113.47075 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW225"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "58e484b0-b3ad-4324-b86d-d60d7219dc79")
+			(uuid "f681fc77-5b0b-4878-9234-cd30bfeaabbf")
 			(effects
 				(font
 					(size 1 1)
@@ -33724,7 +33724,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "d7cafb37-4e0c-4e99-ad49-b0e222ccc75d")
+			(uuid "2e96a0c6-d697-485d-9283-d9e8da3bade3")
 			(effects
 				(font
 					(size 1 1)
@@ -33736,7 +33736,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3d324509-dd46-4452-a624-077b89ca182e")
+			(uuid "b248d8c5-3a76-451f-b17f-9d1e6baa2760")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33747,7 +33747,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8039f630-48d9-471f-a1f0-5f9dc9fa90a6")
+			(uuid "635bea94-fc3f-46a7-87fa-a898b785abfe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33899,13 +33899,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "79f5e874-d350-41fb-aa10-6fc587a293d7")
-		(at 262.5 222.5)
+		(at 262.042423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW254"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "a0330fa5-e983-4778-aac5-e41b962abcd8")
+			(uuid "c74c7d8f-be61-44d7-8422-ca554a071f3f")
 			(effects
 				(font
 					(size 1 1)
@@ -33916,7 +33916,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "4d1a0edb-22ae-4f97-817a-c71d01c0d0a0")
+			(uuid "3629d8bd-780d-46a4-bf13-f2a79e90a10d")
 			(effects
 				(font
 					(size 1 1)
@@ -33928,7 +33928,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acf3779d-c55a-4f7c-a3d1-ffb35893243e")
+			(uuid "ee7797aa-0a68-4a5d-a6ad-5a7d3f2209ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33939,7 +33939,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c817934-8af6-4b57-984b-2cc12ab10d3a")
+			(uuid "24e9a974-5545-4d2f-8a4e-4140c83a68c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34091,7 +34091,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "7b5f2a51-7559-4b4b-ae01-b356b9997d80")
-		(at 203.178546 81.430213 90)
+		(at 202.5 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D212"
@@ -34397,13 +34397,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7be6297e-1b56-402d-a07f-6b5cfb71283f")
-		(at 264.329067 193.035643)
+		(at 263.141848 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW246"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "51d82178-6441-49da-97de-74a0efbefa35")
+			(uuid "56f72830-94e4-480b-b793-f84504815d51")
 			(effects
 				(font
 					(size 1 1)
@@ -34414,7 +34414,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "9d2ba314-371b-4c9f-bd59-475d40d06ecf")
+			(uuid "b02973ed-97f4-48d9-9162-d806b39a1125")
 			(effects
 				(font
 					(size 1 1)
@@ -34426,7 +34426,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3d85167-5607-4c64-ac72-060dba82cd73")
+			(uuid "55984872-f50d-4149-8e96-6e98a5174725")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34437,7 +34437,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5ae81f36-c589-4778-9535-6feefc20dd11")
+			(uuid "92c27280-ec8e-4721-83e3-90daaa6bb544")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35686,7 +35686,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "7f1498f4-cee4-40aa-a690-d260d49aca34")
-		(at 143.986146 80.212669 90)
+		(at 142.816413 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D210"
@@ -36887,7 +36887,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "83b6e0f1-9b03-427b-8da4-3a1ae7a81695")
-		(at 170 230 90)
+		(at 172.514286 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D251"
@@ -37506,13 +37506,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8a7b396a-0809-4633-92f4-e2e4dd5e45db")
-		(at 112.138459 193.472814)
+		(at 113.363443 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW241"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "a81ff09c-a907-4a61-bd7b-621caa47d70c")
+			(uuid "e498d856-b61d-476d-ada5-c05f145cf251")
 			(effects
 				(font
 					(size 1 1)
@@ -37523,7 +37523,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "b2b8f5ae-6f2b-4d6e-aa2a-74270237cd73")
+			(uuid "c9457147-73cc-4fcb-a713-bedaa7b4bbec")
 			(effects
 				(font
 					(size 1 1)
@@ -37535,7 +37535,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35b986b3-7399-4e9f-94af-f66d8b362206")
+			(uuid "2f2a04c9-ceec-44d0-884e-b8c0ac0664b2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37546,7 +37546,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a7f912e-6144-4a66-a17e-971305b55732")
+			(uuid "e1706707-9856-4c07-9e30-fe2bb1f3f45b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37698,13 +37698,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "8b38e76f-9753-4a6d-9190-4d7c521da3fa")
-		(at 233.5 51 90)
+		(at 232.163571 49 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D205"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "70da9f3e-05f5-4bc1-8185-520a9ec5362a")
+			(uuid "84321c06-4d67-4382-b7bd-c6f0180a0eb0")
 			(effects
 				(font
 					(size 1 1)
@@ -37715,7 +37715,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "40c99f21-390f-44a1-8fe2-1fd3b1a80b9e")
+			(uuid "4b56dff4-d089-4a97-b19c-ab5fcc58cb8c")
 			(effects
 				(font
 					(size 1 1)
@@ -37728,7 +37728,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2423b578-a8c8-4a23-8b51-84c1e51481ed")
+			(uuid "2eab0ed3-dd3b-44f0-9cad-dfb280672b53")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37741,7 +37741,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "149f02b3-7250-44df-971a-6bc740961c7b")
+			(uuid "2edd6f80-5fd2-4891-be00-20f1474d4534")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38004,7 +38004,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "8bba2ba5-43ab-42ba-aa1e-6e83152b1234")
-		(at 292.879734 140.128623 90)
+		(at 292.879734 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D231"
@@ -40200,13 +40200,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8fb6cc83-7aa5-4b08-a495-e73cb41db53c")
-		(at 233.156909 72.17598)
+		(at 232.513885 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW213"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "1095ecae-7ce7-4f2e-914e-cc978cb38e77")
+			(uuid "0b4da932-b50e-40d8-8738-1590c9fb92a6")
 			(effects
 				(font
 					(size 1 1)
@@ -40217,7 +40217,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "e8f0b4b7-b974-4b7b-9c26-4986b74c5015")
+			(uuid "daac65d7-37dc-4a79-9c22-fefa7291183e")
 			(effects
 				(font
 					(size 1 1)
@@ -40229,7 +40229,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28f3db6b-f202-4274-b0e8-6c5a4019c735")
+			(uuid "2884e0b6-21b2-4ab3-a74f-e72251f036ab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40240,7 +40240,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fd974d02-2d79-4a90-a852-26bf19008dff")
+			(uuid "0087f7f8-ac78-48d8-bae6-6661cfa502ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40392,13 +40392,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "92264a4f-1198-4159-9206-e7207a8ebdf9")
-		(at 201.68 44)
+		(at 202.062286 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW204"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "ce4c1d1b-af4c-4692-8df3-2b3c6e9fb45c")
+			(uuid "f2355d35-8b0e-4cd8-9ddc-2a52d7141ca8")
 			(effects
 				(font
 					(size 1 1)
@@ -40409,7 +40409,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "3d2ca1ef-7bc9-479f-a5ff-6573179df36f")
+			(uuid "eca085a6-67b6-4f9e-b1cb-dc7db363b7a9")
 			(effects
 				(font
 					(size 1 1)
@@ -40421,7 +40421,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "300558e1-5e07-44db-b05f-b52c37a18cde")
+			(uuid "1101d535-1cba-4a38-9cdd-cfe6aba278ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40432,7 +40432,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "57e3ee3d-fe9e-44f3-b3fb-a0009ee26aee")
+			(uuid "145654be-ae25-4bfb-acaa-29e3e177cf40")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40584,13 +40584,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "927b5e6d-4f24-4f05-b82f-d9d47fdbd6c7")
-		(at 141.999259 253.176324)
+		(at 142.197478 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW258"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "0b975036-5da0-48c4-98cb-d420fc07e7c1")
+			(uuid "a312e8c8-6a3b-4217-8851-f5c72e50dcb8")
 			(effects
 				(font
 					(size 1 1)
@@ -40601,7 +40601,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "bd59b47d-ed01-44f4-97ce-c4e04f6c9430")
+			(uuid "ecc036f5-9ae8-483d-9c33-8a1473a42d45")
 			(effects
 				(font
 					(size 1 1)
@@ -40613,7 +40613,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "709511dd-774c-486c-97ab-c0b61ae8604c")
+			(uuid "6a978c30-346b-4ade-bfe1-13ed7df067b6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40624,7 +40624,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba32d350-78f3-411f-a737-0807e0adba51")
+			(uuid "b018d94a-b6a7-40d3-9387-971cc3768d4f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40776,7 +40776,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "972774a4-177a-4c28-a832-4ed9cea44d43")
-		(at 174.970238 80.962028 90)
+		(at 172.658207 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D211"
@@ -41553,7 +41553,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "97f4ffdc-9738-419d-9144-1a58004f2c7f")
-		(at 112.268563 260.471332 90)
+		(at 112.63456 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D257"
@@ -42330,7 +42330,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "9986bb04-0cfb-4385-aab9-24785cade5a2")
-		(at 174.614978 172.473555 90)
+		(at 173 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D235"
@@ -42636,13 +42636,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "99933158-c1a8-43a3-9e50-9c8ac462f4bd")
-		(at 172.169829 103)
+		(at 172.84 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW219"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "45f89c88-58ee-441c-a51a-2d2ba975a809")
+			(uuid "e64b7f7b-56dd-4e65-8a3d-30a903ba87e7")
 			(effects
 				(font
 					(size 1 1)
@@ -42653,7 +42653,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "6be508b8-4f6d-46f6-a1d6-25910350535b")
+			(uuid "f7af4c3e-e266-40fa-b02a-95af7e0b87c3")
 			(effects
 				(font
 					(size 1 1)
@@ -42665,7 +42665,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6ed2c3e-26e2-4a72-b1f8-8eb17bb380df")
+			(uuid "a29a667d-0f93-44b7-8a39-f8ce3eb304b2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42676,7 +42676,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "00655036-2ada-40a4-a86d-8e104918f65a")
+			(uuid "0053b388-8985-4475-a723-4388a06a3209")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43144,7 +43144,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "9afe8291-f161-47dc-bd5d-f9f8939e6f5b")
-		(at 203.640683 171.736829 90)
+		(at 202.884584 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D236"
@@ -44237,13 +44237,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9f9823ab-c987-4033-a85b-6396f25f3dcd")
-		(at 232 222)
+		(at 232.242423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW253"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "98583636-8e35-4a65-93b1-59f29f6cde51")
+			(uuid "c768dd92-ba3f-485b-810f-c9651fd4da67")
 			(effects
 				(font
 					(size 1 1)
@@ -44254,7 +44254,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "56b62f45-4a9e-42de-bf61-7a1ec86aca44")
+			(uuid "80f4967a-830b-4a15-b68b-de8b4baa81a0")
 			(effects
 				(font
 					(size 1 1)
@@ -44266,7 +44266,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26757eae-225a-411d-adb8-8a6edb7aa326")
+			(uuid "4fb6fcdb-f9b1-44c0-ae6f-38dd92eaa156")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44277,7 +44277,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e4e9e285-4840-4a32-8731-7519ea6b1149")
+			(uuid "5c8b7202-6331-4ad9-b1cb-06e8eebaa91c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44587,13 +44587,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a0bdf999-0394-4435-9f14-d20676370d3e")
-		(at 141.68 41.5)
+		(at 141.951143 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW202"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "b1392f65-a1bb-4e6d-9c25-6135f916329f")
+			(uuid "3c82089f-93b7-48e9-9ec1-e3190b9de136")
 			(effects
 				(font
 					(size 1 1)
@@ -44604,7 +44604,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "67a79c48-42f5-49ab-87c2-5a05501fb5a2")
+			(uuid "f165235a-663c-46ba-993d-bc1078e62f09")
 			(effects
 				(font
 					(size 1 1)
@@ -44616,7 +44616,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83f0756e-65cd-4648-b6b2-cafcaf25d85d")
+			(uuid "ea117a74-c870-4482-97f1-3dda832b7829")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44627,7 +44627,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28cbaf98-145c-4b1b-8e90-a707750f08ca")
+			(uuid "9430bded-096b-4bd7-8528-978424791512")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44779,7 +44779,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "a0eaf4c1-937a-46d9-8cae-8863dd974808")
-		(at 232.976909 80.67598 90)
+		(at 232.341794 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D213"
@@ -45085,13 +45085,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a1370ba9-611c-4ce1-ac1e-4d7c7d4f7710")
-		(at 172.295008 133)
+		(at 173.111326 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW227"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "a02d1285-166f-467c-9a9b-c73275a607d1")
+			(uuid "bd69df4f-f7de-4f66-8e41-9d9de41fe210")
 			(effects
 				(font
 					(size 1 1)
@@ -45102,7 +45102,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "d7a0b55f-2207-4607-980d-9917d7c80d29")
+			(uuid "af130a35-aae9-4b57-b10e-4f631dd5210c")
 			(effects
 				(font
 					(size 1 1)
@@ -45114,7 +45114,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d616606-d894-45e1-bd59-d5ec9393e4fe")
+			(uuid "7c58bd77-1fb4-4d0f-82a3-c2cc99302c51")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45125,7 +45125,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df51d164-4788-4c06-9902-94abc8d69842")
+			(uuid "883a0c9d-2ea3-4de0-8419-466f5392511d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45277,13 +45277,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a17a8e22-a10d-4916-a59c-12d57d043884")
-		(at 234.393378 132.908504)
+		(at 232.751902 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW229"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "345099ff-3ba4-4390-b79d-6f7e7dbf8570")
+			(uuid "c68ce11f-8554-4a0f-ae65-3b90b445ec23")
 			(effects
 				(font
 					(size 1 1)
@@ -45294,7 +45294,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "7eec51be-fc96-4e27-a3c2-30ef0c30e7a3")
+			(uuid "c7f39e7d-2054-44f3-b9bd-bafd9e8d254c")
 			(effects
 				(font
 					(size 1 1)
@@ -45306,7 +45306,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a20350a1-15da-4cc0-acd1-46b6646b645f")
+			(uuid "7bfe9f2e-b875-40d2-b054-4234d0732254")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45317,7 +45317,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3cebb240-3932-4aaf-b98f-ebb3ac0f6bef")
+			(uuid "03690805-e53f-4b49-ade3-0ece121a4142")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45469,13 +45469,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a3016d44-a460-4360-b67e-d019ad28f8dd")
-		(at 263.35403 133.614237)
+		(at 262.57219 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW230"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "bd521ab7-558d-40c6-b76f-388f9f512bc8")
+			(uuid "0701479f-0df4-400b-adf5-d106bffd89da")
 			(effects
 				(font
 					(size 1 1)
@@ -45486,7 +45486,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "fb470187-d881-4b18-a289-0e86dcdc05f4")
+			(uuid "f8839c92-f3b1-4897-9f5a-f2562098afaf")
 			(effects
 				(font
 					(size 1 1)
@@ -45498,7 +45498,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40f56e5c-b386-438c-af7e-b2171c14cfcd")
+			(uuid "16dd6576-5c14-4e9c-abc6-5104a0c1000d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45509,7 +45509,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83a96023-b921-481a-9597-369dfee90f74")
+			(uuid "4e081cc3-28c9-4857-a0ea-aa361d5e697d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45982,7 +45982,7 @@
 			(at 9 -5.9 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "2208cfbc-7513-49dd-be06-a2e8c762ae7e")
+			(uuid "6f0c5137-9dcd-41fb-ba2f-85f29ec5a51d")
 			(effects
 				(font
 					(size 1 1)
@@ -45994,7 +45994,7 @@
 			(at 9 -4.4 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "03771f61-51a9-43a4-a350-7047490ee2dd")
+			(uuid "9bd14747-e43c-4826-8263-f94d89cc5e07")
 			(effects
 				(font
 					(size 1 1)
@@ -46007,7 +46007,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "63e1ed69-257a-463f-808f-6bdf3a453fb8")
+			(uuid "8169bbe9-c8a1-4892-b04b-002cdac072c7")
 			(effects
 				(font
 					(size 1 1)
@@ -46020,7 +46020,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8626a263-eaa5-4e29-bd77-33e57d9b88e2")
+			(uuid "1e96994a-2399-4100-a7c7-bd1f7bbf064f")
 			(effects
 				(font
 					(size 1 1)
@@ -46207,13 +46207,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a4c61839-a439-4bb9-80c4-488cf91f5752")
-		(at 292.229 43.739774)
+		(at 292.229 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW207"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "35d45cf5-8d74-47a0-af3a-af7dd972b374")
+			(uuid "512b0d56-55d2-4bfa-849a-90b4a998f440")
 			(effects
 				(font
 					(size 1 1)
@@ -46224,7 +46224,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "3a59f9a6-d31d-4a06-b56a-d876e23c3158")
+			(uuid "5f2d068c-0b05-4f25-af97-97ae9d6cd706")
 			(effects
 				(font
 					(size 1 1)
@@ -46236,7 +46236,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "51cd1202-00fa-4790-aae7-627cbca97f6d")
+			(uuid "2ba3e411-76a5-43d4-8b08-83ba53c1a385")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46247,7 +46247,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "adc73036-fde4-4deb-bd1e-f910deaa1021")
+			(uuid "55f59131-0595-4f77-8329-ec168c6f4267")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47025,7 +47025,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "a67d331a-704e-4eed-9690-e059ec7cf72a")
-		(at 83.267774 81.632548 90)
+		(at 83.132826 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D208"
@@ -48071,7 +48071,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "aa0e1399-9dee-43d1-b9d0-4b769632d72c")
-		(at 172.500001 202.127881 90)
+		(at 173.274805 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D243"
@@ -48690,7 +48690,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "aa708e9f-75e5-4276-89ef-41e6a2d18cef")
-		(at 173.319971 260.856354 90)
+		(at 172.580736 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D259"
@@ -48996,13 +48996,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "aaff9cf3-cdce-4aed-b664-c23c5eae3312")
-		(at 233.99323 164.521999)
+		(at 233.042153 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW237"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "dfa6cca7-6a43-4f9d-adaa-410de63b64ce")
+			(uuid "010b9c5a-1b8f-4140-bb8c-cdcacebdd9bc")
 			(effects
 				(font
 					(size 1 1)
@@ -49013,7 +49013,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "97b25046-adf7-4398-868d-dd0afa9f1783")
+			(uuid "d2caeb7c-834a-44a2-8b99-5912fe640803")
 			(effects
 				(font
 					(size 1 1)
@@ -49025,7 +49025,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93571c76-7bf1-48aa-b9c7-c6679d1640df")
+			(uuid "977cc49c-46e5-4068-b217-8338b5ee11df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49036,7 +49036,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f30581b3-028c-4e19-af9d-d722def13de6")
+			(uuid "a726ffe4-2eaf-46ba-a02c-d9b12fb37a14")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49188,13 +49188,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ace32c73-75eb-4693-896b-f544dcc19620")
-		(at 293.097529 192.483494)
+		(at 293.097529 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW247"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "1bd05857-0eec-4416-9d6c-a6160183d8a0")
+			(uuid "78a48bb0-d88f-4df7-91e5-6e8354ea89ed")
 			(effects
 				(font
 					(size 1 1)
@@ -49205,7 +49205,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "78d458ab-8210-4fcc-a9e1-1b64e3be191f")
+			(uuid "86427901-ea72-4a74-b7af-48c4c37756c3")
 			(effects
 				(font
 					(size 1 1)
@@ -49217,7 +49217,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8213a776-5e45-4983-a2fb-5e23ba7bef94")
+			(uuid "4eccd47a-e344-41b5-9a31-e043e5b980e7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49228,7 +49228,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ded7435-20bd-4ce3-8291-9c00f32cbdd2")
+			(uuid "9579e9c3-c9b9-47a9-ac7c-cffe677ce18d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49380,13 +49380,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "adfb17b4-0fff-4a31-b10e-a7c6f5f2f95d")
-		(at 292.340329 73)
+		(at 292.340329 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW215"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "75460b32-33e9-4549-a2d2-1fff788b4289")
+			(uuid "fc37299f-7abc-4715-a2d8-72f0d4e36ec2")
 			(effects
 				(font
 					(size 1 1)
@@ -49397,7 +49397,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "975a3f00-db51-4560-9f11-a90c7e9b562c")
+			(uuid "cc32f6b3-cd9c-48d7-9937-8356f7928fc8")
 			(effects
 				(font
 					(size 1 1)
@@ -49409,7 +49409,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6532f86c-ac0f-4420-ac58-77f9c29a718b")
+			(uuid "5fc23d94-7146-4b32-8ccd-15f2d450dadd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49420,7 +49420,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14d0a51a-8f4d-4473-9734-bedba7cb1c08")
+			(uuid "a98bd39b-2f77-400e-9ee8-d6543041f44b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49572,13 +49572,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "aedacb00-0875-4f4c-bae3-d779760792ac")
-		(at 82.9 223)
+		(at 83.242423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW248"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "4dae97e7-cc15-4ed8-8758-3eab7c97f88a")
+			(uuid "df8c712b-21ba-4085-b431-a599ec5923b9")
 			(effects
 				(font
 					(size 1 1)
@@ -49589,7 +49589,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "2f88733d-940c-4a82-a63c-2d11c10f9529")
+			(uuid "7ff779fe-580d-42b4-a42b-9cb6ab387c06")
 			(effects
 				(font
 					(size 1 1)
@@ -49601,7 +49601,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b87c514-fe04-4ad3-a730-c20228944a53")
+			(uuid "297031a5-3d48-4655-bed9-a6d92672018a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49612,7 +49612,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "183c70c1-c27e-4344-a9db-0a5563dc3b5a")
+			(uuid "35bcc602-39d1-4f69-bea6-faecc8949510")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49764,7 +49764,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "af6fcec8-95d4-4067-b7c8-c56b1429a41c")
-		(at 172.169829 111 90)
+		(at 173 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D219"
@@ -50070,7 +50070,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "b0f8b6e7-85c2-48d5-a1bf-8d4645450b8f")
-		(at 143.039348 201.562829 90)
+		(at 143.319124 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D242"
@@ -50376,13 +50376,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b5f9084c-db96-40ec-b99a-c940e25796db")
-		(at 143.204252 164.023481)
+		(at 143.251257 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW234"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "abc5e578-3927-4238-9041-a882c6686678")
+			(uuid "d3dc18ee-7106-448c-aa88-c344f908f356")
 			(effects
 				(font
 					(size 1 1)
@@ -50393,7 +50393,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "e307c9e3-60c4-4550-bffc-712e3c6bf0fa")
+			(uuid "c2d880c8-d1a5-4b3e-8227-3ea1b5c504e7")
 			(effects
 				(font
 					(size 1 1)
@@ -50405,7 +50405,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37e577e5-a834-425a-b116-d206c9367c54")
+			(uuid "634eea8d-fcf5-4ada-925a-3d14f0300f89")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50416,7 +50416,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d344d11-1ba7-4de7-b671-f5cf37057a2c")
+			(uuid "827e7c74-77d6-4b44-88f9-78d19acea365")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50568,7 +50568,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "b67c253d-2d00-4066-acd7-ffb7104675ef")
-		(at 111 230.5 90)
+		(at 112.771429 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D249"
@@ -51032,13 +51032,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b833e92d-7bbc-46a2-8b75-865f6ff5eb1c")
-		(at 174.114978 164.973555)
+		(at 173.181556 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW235"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "8aa9cfc7-c955-4aa8-a14a-0f156c317621")
+			(uuid "d6a809ec-ac04-479a-b0c6-cff3fd1b93fb")
 			(effects
 				(font
 					(size 1 1)
@@ -51049,7 +51049,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "a372e66b-dea3-4eaa-b102-e1b6e5b176cd")
+			(uuid "9e82b046-e548-4757-bd30-f0c065a47a35")
 			(effects
 				(font
 					(size 1 1)
@@ -51061,7 +51061,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d95c379-e7cb-4dba-acc5-2b93fd5a192a")
+			(uuid "99afc7d5-14f6-46cf-beb3-8419360c0d49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51072,7 +51072,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "90fb2211-0b0e-4c6d-a04e-4e694e75ebef")
+			(uuid "71779002-7f8d-4f1d-b59e-f5de366b5665")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51335,7 +51335,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "b9a58ef9-dd89-4a01-9843-b9b988c37cb1")
-		(at 233.347512 110.589212 90)
+		(at 232.925645 107.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D221"
@@ -51957,7 +51957,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "bcc6fb95-abd7-4b6b-ac3e-213c4384c55f")
-		(at 292.194415 261.392738 90)
+		(at 292.473088 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D263"
@@ -52421,13 +52421,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "bd1bb30a-9a66-4ff6-a2dc-f14cdf0f49a5")
-		(at 142.539348 193.562829)
+		(at 143.319124 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW242"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "e0c55246-4791-40b1-93aa-73e29cce6722")
+			(uuid "a776f26a-05b9-4d6d-b44e-962fc1c4bbf2")
 			(effects
 				(font
 					(size 1 1)
@@ -52438,7 +52438,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "c9d40f37-f854-4011-941b-ee1f612b2472")
+			(uuid "d5828b93-29f1-4f81-958d-a854415d37fd")
 			(effects
 				(font
 					(size 1 1)
@@ -52450,7 +52450,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4888ecc4-31f3-4969-9944-f3bf4a62947d")
+			(uuid "901dbcff-4e05-48ed-a467-186839820199")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52461,7 +52461,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7033c047-5bb5-466d-af56-0177c12eeea2")
+			(uuid "7f8ab7c9-2123-4e21-9469-056cc2b40d3a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53242,13 +53242,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c05071a8-98dd-4c04-bfcf-d3899900c468")
-		(at 233.750372 253.387449)
+		(at 232.331028 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW261"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "ef6ad1f0-0030-449d-a1ab-70b5eed34ac7")
+			(uuid "2def81b4-f9ad-49e7-8034-2eb4564848e9")
 			(effects
 				(font
 					(size 1 1)
@@ -53259,7 +53259,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "7085356d-e66f-4d10-a7a2-e82fba4d4cf4")
+			(uuid "82e86506-ec5b-410e-a559-c6ae336222b5")
 			(effects
 				(font
 					(size 1 1)
@@ -53271,7 +53271,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1aa341b-8fab-401a-93ff-3c0ddcba2c69")
+			(uuid "bde84c88-1af1-432f-82e7-f8e7aae17218")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53282,7 +53282,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1c3d8cda-4399-4b4f-b712-6232da018c30")
+			(uuid "163af874-e023-4dcd-861b-75f4239f3fcc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53592,13 +53592,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c11d09cd-4ad8-424f-af23-88f8df52de92")
-		(at 233.003066 192.355613)
+		(at 233.186167 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW245"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "3859f93f-c6e7-4e48-a069-2118c89f0319")
+			(uuid "473edd54-2239-4490-8baa-ab71296a4960")
 			(effects
 				(font
 					(size 1 1)
@@ -53609,7 +53609,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "4cddbee6-604c-4a67-a726-73506ecf0d34")
+			(uuid "36e7d1db-9355-43cb-a674-c9feb4278d64")
 			(effects
 				(font
 					(size 1 1)
@@ -53621,7 +53621,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3b6e8a3-715a-454c-be79-68d7a26f31ef")
+			(uuid "73e5551b-7475-41ec-943f-23ef48637eeb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53632,7 +53632,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ded671bf-2745-4dce-838b-b585dc0f2342")
+			(uuid "83e4574c-1ae3-4401-9f3c-a7e5d096321c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55039,13 +55039,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c607f649-9dd7-40de-9ea5-17f1b33ea03f")
-		(at 172.500001 193.127881)
+		(at 173.274805 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW243"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "b557cf02-62f9-4b93-8c18-a28195ece4fc")
+			(uuid "61ddd880-6334-4f1d-b69d-4b60cd57e16f")
 			(effects
 				(font
 					(size 1 1)
@@ -55056,7 +55056,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "09e3d4a2-1170-436b-aa4a-2c69ed4c91ff")
+			(uuid "a8fdec3d-d7a1-4a18-bd28-be6246a9283f")
 			(effects
 				(font
 					(size 1 1)
@@ -55068,7 +55068,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "36f84079-c467-4b69-b5f4-8de727e3f627")
+			(uuid "c64ce6c9-f904-4950-af5f-c3d2ea89748f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55079,7 +55079,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dc171508-8640-4511-b363-99db5258b94c")
+			(uuid "1cf59729-fb20-4bb9-873d-3fbd8199fdc9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55231,13 +55231,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c8bdb6e2-68d4-418e-834d-55d3eb3524e7")
-		(at 173.319971 253.856354)
+		(at 172.241995 252.315029)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW259"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "482b83c6-3095-4861-ad6f-b44d26d5496d")
+			(uuid "0c76d2bb-7da8-4ec1-aa80-e3c61a1d5554")
 			(effects
 				(font
 					(size 1 1)
@@ -55248,7 +55248,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "26f5eea9-2089-4abb-944d-9cbe7ffa0fe1")
+			(uuid "f00a764e-eeea-4654-872f-ec4697ab8dd3")
 			(effects
 				(font
 					(size 1 1)
@@ -55260,7 +55260,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29f74b71-9a97-4f6e-a413-76c94f84d7b4")
+			(uuid "447c21c2-ab1d-43c9-9b0f-6e140b99896a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55271,7 +55271,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a90f7f9b-4d6f-4dc1-af63-6a95839458fa")
+			(uuid "41c23be7-7987-4c82-a072-ee497590b28f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55423,7 +55423,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "cb1ec605-713f-43bf-a1a2-96ed65aa2c2f")
-		(at 83.407762 200.857836 90)
+		(at 83.407762 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D240"
@@ -55729,13 +55729,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "cb2564f2-0dd2-40f3-944b-c56bd01b51cf")
-		(at 202.5 50.5 90)
+		(at 202.130857 49 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D204"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "bd18cd8f-d500-422a-bf32-cac6135b8c80")
+			(uuid "3ae30b34-795f-4177-9f00-00cc61b85d85")
 			(effects
 				(font
 					(size 1 1)
@@ -55746,7 +55746,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "e60f7008-c4cc-420f-9dcb-2f138e5a187c")
+			(uuid "2304eb24-f240-4695-88c3-c68096b3c2e7")
 			(effects
 				(font
 					(size 1 1)
@@ -55759,7 +55759,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c82f91d3-6350-4295-a85f-f452ff85d818")
+			(uuid "79258525-c471-4d2d-a06c-17a8d338b36a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55772,7 +55772,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0553bf5-5daa-4849-ba9b-09c89ad103a5")
+			(uuid "14989727-60c2-43e2-bbf6-6c4366d50ec1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56035,7 +56035,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "cb5fe3db-7e04-48bd-b11f-18d048e57aef")
-		(at 203.075631 202.275435 90)
+		(at 203.230486 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D244"
@@ -56341,7 +56341,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "cba7ff98-4cb9-403e-aaae-14c4444ea524")
-		(at 82.9 230.5 90)
+		(at 82.9 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D248"
@@ -56647,13 +56647,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "cbbac8a4-227d-42ff-86a3-93912842a7fe")
-		(at 142.666146 72.212669)
+		(at 142.774218 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW210"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "77dc8c1c-8f1b-4537-88db-61d5606f2b4e")
+			(uuid "0e9edb6f-5664-4a5d-b992-9ce929858c0a")
 			(effects
 				(font
 					(size 1 1)
@@ -56664,7 +56664,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "54f18ec9-a5b1-49d8-9e48-04a8539a5afd")
+			(uuid "eabdffc6-22b3-4381-94c5-1e89b6faca53")
 			(effects
 				(font
 					(size 1 1)
@@ -56676,7 +56676,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "77ffa7c1-2e09-474c-a124-922bbe6ff489")
+			(uuid "0dfc8ca6-c118-4bf8-9693-bd834d3df1e9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56687,7 +56687,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3c836ac4-4fac-4196-aef3-7a99936786f7")
+			(uuid "301d9f40-8460-4070-8313-b503c2ae3d57")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57310,13 +57310,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "cdd0532e-53b8-4f18-8136-34f5a15a5132")
-		(at 263.493971 163.472073)
+		(at 262.972451 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW238"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "3c60a89e-2f42-4b85-b1e2-0df9f24f3fe0")
+			(uuid "2d0a042d-3b1e-4ab2-868c-4f1152d39495")
 			(effects
 				(font
 					(size 1 1)
@@ -57327,7 +57327,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "636adbea-889c-43be-a00d-e38350eb8c0e")
+			(uuid "3b3eb671-9d6f-44ff-b871-9a89f9ff3130")
 			(effects
 				(font
 					(size 1 1)
@@ -57339,7 +57339,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c11b1827-102c-4933-aa98-1010de126d9b")
+			(uuid "1a10e1ec-cd66-46f6-9ada-a65285127c1c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57350,7 +57350,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b4a6ebb8-be46-4a70-95c9-149c1b86f6e8")
+			(uuid "6d74d8dd-d330-45c7-87be-d644aa6d499a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57660,7 +57660,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "d07a561b-b7f4-4ee5-9b17-96bf34b5cdbd")
-		(at 293.097529 200.483494 90)
+		(at 293.097529 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D247"
@@ -57966,13 +57966,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d127c227-7474-44f9-97f2-8ecca13dbae0")
-		(at 111.68 42)
+		(at 111.895571 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW201"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "4daba05e-62c6-4591-8f32-4ac9593ecd14")
+			(uuid "8b0aa800-0c44-4a41-9002-c5bbc65ec913")
 			(effects
 				(font
 					(size 1 1)
@@ -57983,7 +57983,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "8f7a1a41-370d-4cc2-bb29-847617de5f2a")
+			(uuid "96b2710a-cadd-46c0-a16b-95324abfe496")
 			(effects
 				(font
 					(size 1 1)
@@ -57995,7 +57995,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b359b6ad-e3b2-4bf0-8681-bffab34b8d00")
+			(uuid "64a858f3-6068-4a18-9718-3b2594ca0d40")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58006,7 +58006,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b83e854c-10f8-4a30-b239-001281c83751")
+			(uuid "28270c66-63db-46fe-973a-85ede0aa274b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58787,13 +58787,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d38b6905-ae6f-4469-9ff7-6c3bccb0ed9c")
-		(at 202 222)
+		(at 202.442423 222.56143)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW252"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "2a83f9ae-c726-45c9-bfc2-8d9ae6f05d5c")
+			(uuid "9f221f61-b8e0-412c-b474-aaab9e018922")
 			(effects
 				(font
 					(size 1 1)
@@ -58804,7 +58804,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "ff7e2d53-19b0-4b5d-acbe-fe0d8f9ad173")
+			(uuid "f38ef981-804e-4464-ba22-69f1dcae5f6d")
 			(effects
 				(font
 					(size 1 1)
@@ -58816,7 +58816,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c72f1ee2-0ff7-4acf-ac03-0f0af2fbdafa")
+			(uuid "4a1f2b99-a6de-4853-b672-49d96c6ce6f8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58827,7 +58827,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "abb1847e-5f4e-4d57-b3d8-889e7b2faba3")
+			(uuid "3fd9647d-0f02-4242-993c-925b982af265")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59292,13 +59292,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "d59c1ca3-4b32-412c-bfd4-ef42eb5debe0")
-		(at 292.229 52.739774 90)
+		(at 292.229 49 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D207"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "6f0bc229-cffd-4d14-a7ef-9f091a09a638")
+			(uuid "2ca7b447-6dc5-49da-93e9-8159223024b8")
 			(effects
 				(font
 					(size 1 1)
@@ -59309,7 +59309,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "ff2ed9ae-b728-401e-ae92-5f827deaad7b")
+			(uuid "732c08f1-3335-408e-b227-a1f0fea3cca2")
 			(effects
 				(font
 					(size 1 1)
@@ -59322,7 +59322,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b30fa30b-7be3-49ef-8c9e-46b7d1ed1b64")
+			(uuid "a1c5378a-a0e9-4529-bfaa-326a82a0058a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59335,7 +59335,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6539790-0f9c-4cc1-9bb4-fb2d1019f65f")
+			(uuid "51965364-b637-42b3-ac84-244f0780373c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60553,7 +60553,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "d85c8a05-824f-4a1c-998a-85be6c45bb91")
-		(at 262.969008 262.392738 90)
+		(at 262.5 258 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D262"
@@ -61330,7 +61330,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "db3df717-cecc-4853-abd4-dad9a6a5bf72")
-		(at 113.588533 140.294267 90)
+		(at 113.529435 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D225"
@@ -61636,13 +61636,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "db67bf14-4d07-45cc-b6b0-9fdb3c736f4f")
-		(at 293.304845 163.512162)
+		(at 292.90275 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW239"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "8ad5e02c-14dd-40e0-956f-70d5e8fac1ae")
+			(uuid "f4194f3a-33af-4e19-a5ac-a9156fb2b615")
 			(effects
 				(font
 					(size 1 1)
@@ -61653,7 +61653,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "92a954ce-af3d-4970-ba10-85850b0932b4")
+			(uuid "574f1511-c38c-4a80-bcf7-f341a9bcbcf0")
 			(effects
 				(font
 					(size 1 1)
@@ -61665,7 +61665,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "18b211d4-f7ab-40e7-9bd5-85bf4477128b")
+			(uuid "61f020d6-06f6-4411-8f40-991e92422ef7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61676,7 +61676,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8359b220-9650-43a8-bd15-2e597e284a49")
+			(uuid "165b2127-d6b4-4c54-9076-ac8c67e560b1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61986,7 +61986,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "dcc870a6-5abd-4f75-abc5-4aef70000c79")
-		(at 263.993971 171.972073 90)
+		(at 262.653753 169.5 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D238"
@@ -62292,13 +62292,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "dccc9754-7329-44c0-adea-74971c818054")
-		(at 83.792755 164.178548)
+		(at 83.39066 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW232"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "1917d4d4-560e-47fc-8d0a-880d783a38dc")
+			(uuid "93536c4f-d0c1-47b6-b859-b5d4e4da7fec")
 			(effects
 				(font
 					(size 1 1)
@@ -62309,7 +62309,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "d3380f3c-906a-40f0-a6e5-9f814e6153c2")
+			(uuid "46cd93fc-df47-4f24-b664-3f29d03ecaa4")
 			(effects
 				(font
 					(size 1 1)
@@ -62321,7 +62321,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "547f5f75-7745-4dba-b5c2-31cb9931c628")
+			(uuid "45d13dc5-25b7-4b75-a1b1-843a8dcdd9cd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62332,7 +62332,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e97bc533-d2c3-4349-b8e8-4163990051a8")
+			(uuid "32ded424-5229-4963-abbc-e1b3980d5e45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63426,13 +63426,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e3239dc1-dc44-4fe7-bc00-1914b674457a")
-		(at 82.947774 73.632548)
+		(at 82.947774 72.928674)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW208"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "208b728c-ac5c-4f13-bd3f-5df433dcf2c5")
+			(uuid "4a1927f0-09d2-4f18-9dfb-9cca434e5c26")
 			(effects
 				(font
 					(size 1 1)
@@ -63443,7 +63443,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "bfff99a9-ccd7-492b-bf42-7e1ff5989589")
+			(uuid "c45ac5f6-6e9f-4354-87d8-fb548622ce72")
 			(effects
 				(font
 					(size 1 1)
@@ -63455,7 +63455,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "707abfa2-0a5e-4f89-a883-42d1642eb17e")
+			(uuid "c1c723f4-b030-4af7-869c-ec29ca3c4066")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63466,7 +63466,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "db60af71-849c-4f8b-a8ef-a6a6231489b9")
+			(uuid "cda0de63-0fc4-408e-8e26-767ef7c58ce8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64244,7 +64244,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "e48d1571-16f3-4a12-a3eb-45f5b3977641")
-		(at 112.751925 80.713696 90)
+		(at 112.97462 79 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D209"
@@ -65334,13 +65334,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e6680d7f-6c1d-4a6b-bc7a-acc256aac968")
-		(at 203.140683 164.736829)
+		(at 203.111854 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW236"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "2295fcc6-1f52-4305-a310-678a68b55068")
+			(uuid "1584ce08-a7f4-4ba4-91e1-ce1be62df089")
 			(effects
 				(font
 					(size 1 1)
@@ -65351,7 +65351,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "e0c21950-9cbf-4a93-91d6-111056ccd517")
+			(uuid "008240af-24e7-40cc-bc25-ee5ca7d1d8af")
 			(effects
 				(font
 					(size 1 1)
@@ -65363,7 +65363,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce723d11-27b6-4525-9b02-5e7d0c9e6dd7")
+			(uuid "aab6ae9c-14bb-4585-9fae-bc70a065d906")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65374,7 +65374,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59751cab-303f-4bce-a5ae-5c38baa45083")
+			(uuid "3f2334ee-c305-4b04-9473-ac66fdfba6ed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65526,7 +65526,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "e6ab26ef-6194-4b26-bd2b-f72377068266")
-		(at 263 230 90)
+		(at 262.128571 229 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D254"
@@ -65832,13 +65832,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e6fc5363-070d-4a6e-9999-3eeede1c1cb5")
-		(at 293.194155 102.360274)
+		(at 292.69129 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW223"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "9849af1d-94ee-4f04-8a71-aafb94850af0")
+			(uuid "2a3164e3-7694-4442-bfc4-53f8e26cdc4c")
 			(effects
 				(font
 					(size 1 1)
@@ -65849,7 +65849,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "d1b1f28c-37a3-4929-8595-b44c36cace54")
+			(uuid "3d4802b8-81de-4338-8578-f32998f32604")
 			(effects
 				(font
 					(size 1 1)
@@ -65861,7 +65861,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a659f272-4c41-47c1-8fc9-d6bb92d5fdd8")
+			(uuid "6093e489-94cf-476e-abcf-84132e8338e6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65872,7 +65872,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e4b9b8fe-8358-4cd2-8a75-10567dd3d9ce")
+			(uuid "09cbf932-ccb2-4f8d-8dea-3ff154d4aa52")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66024,7 +66024,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "e7073990-415a-4a02-a211-34fa3b6002b1")
-		(at 172.295008 141.5 90)
+		(at 173.312868 139 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D227"
@@ -66330,13 +66330,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ead906d4-1d10-43fa-b8c6-ffe9922de11c")
-		(at 113.138459 164.113496)
+		(at 113.320959 163.593204)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW233"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "7008d700-e554-46f3-8c39-ab4a939c8b3e")
+			(uuid "24900ee6-5893-4668-835a-9e14ff439f79")
 			(effects
 				(font
 					(size 1 1)
@@ -66347,7 +66347,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "acda72ee-07f6-4167-9033-f04559697e36")
+			(uuid "a32ad448-2741-49ec-85b5-7b4478ad8cdb")
 			(effects
 				(font
 					(size 1 1)
@@ -66359,7 +66359,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c464fe5c-f755-4844-9b4f-7f423c0be90d")
+			(uuid "6150cbf3-52a4-4411-8559-72121f4ba545")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66370,7 +66370,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3d912037-b000-4bff-8c80-ee4f07600672")
+			(uuid "87bb288d-c36d-4af8-bfc8-6ca2ddeb7ae1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66522,13 +66522,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "eb85f057-0348-46f9-a641-c51d3a502a54")
-		(at 112.468916 103.588219)
+		(at 112.914355 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW217"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "4864a614-eff8-4778-8679-62838f71e353")
+			(uuid "59480b9e-9c63-49a1-b50e-c11f204cc0f5")
 			(effects
 				(font
 					(size 1 1)
@@ -66539,7 +66539,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "3c3e3a26-2d1e-4e0b-b09f-6eb1e2256961")
+			(uuid "d7ca38ed-a060-4109-84e5-5ca74b6aef22")
 			(effects
 				(font
 					(size 1 1)
@@ -66551,7 +66551,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d8c877b-63d8-4ab4-97ca-8bf4f2278fa9")
+			(uuid "21c52f29-f67b-4c8e-bae5-fe9e6d89dcec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66562,7 +66562,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0902fe92-059f-4ef2-9342-3d0fc934cb44")
+			(uuid "059d45bc-0a72-4d85-9d0b-ff7c73d80be5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66714,13 +66714,13 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "ed2122a8-369d-4410-8571-69dc6ede5766")
-		(at 263.5 50 90)
+		(at 262.196286 49 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D206"
 			(at 0 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "1180c382-ce42-49a4-a4da-0da005176bf0")
+			(uuid "07b897ed-6fc3-44ad-a95f-841e046f1064")
 			(effects
 				(font
 					(size 1 1)
@@ -66731,7 +66731,7 @@
 		(property "Value" "1N4001"
 			(at 0 2.6 90)
 			(layer "F.Fab")
-			(uuid "1bb1706e-c508-4df9-80f8-b03846348c52")
+			(uuid "2e0fa3e5-fc5e-4392-9860-4cba48afedab")
 			(effects
 				(font
 					(size 1 1)
@@ -66744,7 +66744,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c0621901-0fbc-404c-8149-14249f29ef59")
+			(uuid "16a2dfe5-64fa-4815-b064-c96d67a67648")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66757,7 +66757,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8baff5eb-5266-4e91-bb17-9c73d7d7826c")
+			(uuid "744f453f-95ca-4a7b-b959-fc6d15203700")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67447,13 +67447,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f05127b9-4af4-480e-a64d-c86e4b8fb3cc")
-		(at 203.075631 193.275435)
+		(at 203.230486 192.399092)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW244"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "98c11588-422a-4ed9-a0ec-8229487d8e9e")
+			(uuid "b3da9e26-b938-4681-a99f-6008522b58e7")
 			(effects
 				(font
 					(size 1 1)
@@ -67464,7 +67464,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "aad7693b-5ed1-4557-9a39-4da42ba617a4")
+			(uuid "fccd9738-0709-499b-bf80-573f511b2634")
 			(effects
 				(font
 					(size 1 1)
@@ -67476,7 +67476,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "46d4904f-7e0a-4a83-bff9-86502b669c73")
+			(uuid "d0f4a216-c24d-45a1-8282-3cd4d4f6a2f8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67487,7 +67487,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fe3fb3e9-6c45-4fc7-9e73-18988bc47f2b")
+			(uuid "a780443d-386c-4aec-80eb-a1698380c4db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68058,13 +68058,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f3f46c2b-8760-47d2-81ae-5acfa880129e")
-		(at 172.18 43.5)
+		(at 172.006714 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW203"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "b2040ef5-e5e5-48ef-8b07-0d4b2499694c")
+			(uuid "68db623b-9a98-4bed-b154-1fb1aae0ae5d")
 			(effects
 				(font
 					(size 1 1)
@@ -68075,7 +68075,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "68e6a645-27be-492b-8917-65e56264a9c6")
+			(uuid "30cad6ab-d0a9-44c2-a06d-ff52d0009c10")
 			(effects
 				(font
 					(size 1 1)
@@ -68087,7 +68087,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7aa53bf8-d78d-433b-bcc5-3b3b1f496ffd")
+			(uuid "962408b9-cec3-423e-b609-a22aa5740e37")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68098,7 +68098,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2675fcdf-d24e-4dad-aa58-27466ba9b00a")
+			(uuid "f1d68d53-32e4-49b3-9aa5-61d05afaf7c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68724,13 +68724,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f7094222-bfbe-42f7-b0af-63e9a542f4f6")
-		(at 232.5 43)
+		(at 232.117857 43)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW205"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "118e435f-afb0-473d-a82d-8b7a29dd75fd")
+			(uuid "f16b680b-1c24-4210-8ff1-048667acac49")
 			(effects
 				(font
 					(size 1 1)
@@ -68741,7 +68741,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "97967cdd-a882-492c-b557-d8f2d7c92287")
+			(uuid "4c3a2caf-3a56-46b3-929c-99c054516b6a")
 			(effects
 				(font
 					(size 1 1)
@@ -68753,7 +68753,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ac814ba-9ffb-452b-bb93-07036dc268f9")
+			(uuid "b10ceb07-7715-41bd-9bd7-e55985793944")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68764,7 +68764,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b25c299c-d7f4-418e-bdad-8e9625ea5b5d")
+			(uuid "2accf9f6-1f97-4b50-87c8-d8babfcff2fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68916,13 +68916,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f9ed03b3-e61f-465a-ba61-1615d96070cf")
-		(at 203.58788 103.871222)
+		(at 202.802822 101.5)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW220"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "10a4a80f-589c-4249-9228-ec53b89acb3a")
+			(uuid "b3c9f9ce-3434-4d37-858c-1d5584f1bace")
 			(effects
 				(font
 					(size 1 1)
@@ -68933,7 +68933,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "27be4822-72b2-4a29-968a-f969eac39f66")
+			(uuid "fd0db54c-7287-40d6-8046-bef48d873fb8")
 			(effects
 				(font
 					(size 1 1)
@@ -68945,7 +68945,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6471bbd6-83a8-42cd-9d87-660223de310a")
+			(uuid "9f4f13ba-a7a9-4d91-a22e-02dbe08d06c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68956,7 +68956,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fa340aeb-4542-48f9-8729-20e9610294d3")
+			(uuid "7d113023-9e19-4002-8f42-266bd530d1d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69424,7 +69424,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "fac6c428-98e5-459e-8f08-6638c90b3942")
-		(at 112.138459 201.472814 90)
+		(at 113.363443 201.535643 90)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D241"
@@ -69730,13 +69730,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fadb1f26-12c6-4ee6-8ffa-adcd3e5ca1db")
-		(at 142.744341 133)
+		(at 143.291038 132.787316)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=20.32mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 20.32mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "SW226"
 			(at 10.16 -2.72 0)
 			(layer "F.SilkS")
-			(uuid "4b1a2d4c-0668-4026-be4f-f20ff60a6e37")
+			(uuid "b77fc8f3-3cef-4c53-b4b9-0c6a380112a0")
 			(effects
 				(font
 					(size 1 1)
@@ -69747,7 +69747,7 @@
 		(property "Value" "SW_Reed"
 			(at 10.16 2.72 0)
 			(layer "F.Fab")
-			(uuid "e15e0630-6e77-45a9-b4bf-fd442288d2d2")
+			(uuid "8af768f6-9b42-429a-ae29-49fc6bcb5eb4")
 			(effects
 				(font
 					(size 1 1)
@@ -69759,7 +69759,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d2bf1f23-77e1-4f63-a22f-a800b6658e7d")
+			(uuid "1c0b8f94-d9c6-49a4-a07a-44a9c464ab93")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69770,7 +69770,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b2038ce4-7a7d-48e1-950b-9e770ca5f5a8")
+			(uuid "189059b6-c1a5-45da-b939-50f569c2b7df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70862,56 +70862,12 @@
 		)
 	)
 	(group ""
-		(uuid "066d6e05-05c7-4df6-baaa-bb3f79d39b61")
-		(members "19389df8-7434-426c-b162-70101322134d" "7000409e-d024-4d67-b36d-590770b846b6")
-	)
-	(group ""
-		(uuid "06d8b687-53d0-40d2-98ea-921bb22b1527")
-		(members "a67d331a-704e-4eed-9690-e059ec7cf72a" "e3239dc1-dc44-4fe7-bc00-1914b674457a")
-	)
-	(group ""
-		(uuid "0b5d451c-53dd-4d37-98a1-186016d3c3be")
-		(members "4412fdc4-37c0-4b78-8282-d421b43fe97f" "83b6e0f1-9b03-427b-8da4-3a1ae7a81695")
-	)
-	(group ""
-		(uuid "0b75f959-a083-40c7-9442-ea7cd3471487")
-		(members "aa708e9f-75e5-4276-89ef-41e6a2d18cef" "c8bdb6e2-68d4-418e-834d-55d3eb3524e7")
-	)
-	(group ""
-		(uuid "0c68fda0-5c34-4baa-87e1-722e4e7f3ce1")
-		(members "7913acab-c5bf-4f3c-9bb5-f435b6e673de" "a3016d44-a460-4360-b67e-d019ad28f8dd")
-	)
-	(group ""
-		(uuid "1cb110cd-4cbb-49e0-bbbb-332a5f17bf2f")
-		(members "045ce777-0b3f-456f-9c85-32f95e6fec4d" "b67c253d-2d00-4066-acd7-ffb7104675ef")
-	)
-	(group ""
-		(uuid "1d7e4aae-11c5-4681-bb02-fbe82ba991b0")
-		(members "11ee4466-76fb-4afb-9847-f7dba0ce9b05" "aaff9cf3-cdce-4aed-b664-c23c5eae3312")
-	)
-	(group ""
-		(uuid "22165fb0-fad3-4bd8-b88d-28547f231f52")
-		(members "55f30a4f-182d-4ffd-b572-08c5deff47e0" "ead906d4-1d10-43fa-b8c6-ffe9922de11c")
-	)
-	(group ""
-		(uuid "22609fe8-ea84-4d96-8e9c-d3dacf38e563")
-		(members "50bb53e6-6a04-420f-856e-d346a29acf6a" "ed2122a8-369d-4410-8571-69dc6ede5766")
-	)
-	(group ""
-		(uuid "2b134b56-44bb-4183-9e9d-af0d8ede1d07")
-		(members "61340ab2-e607-4aa4-86ca-e7dc115180fb" "c11d09cd-4ad8-424f-af23-88f8df52de92")
-	)
-	(group ""
-		(uuid "2c3ff9f6-ec61-4949-aa7e-108cd11c0577")
-		(members "6da5c8dc-8cbe-4ce7-be6e-7313db4e289c" "f3f46c2b-8760-47d2-81ae-5acfa880129e")
-	)
-	(group ""
-		(uuid "2fd65c2d-ae16-4682-ac94-e809c4daa72e")
-		(members "5d72d08e-ff57-4f86-89f4-4f61797a7bef" "7be6297e-1b56-402d-a07f-6b5cfb71283f")
-	)
-	(group ""
-		(uuid "336ca308-5c0c-4779-911d-17ae0fa70894")
-		(members "152c9290-46e7-4fab-bda0-93921b77c3b7" "cb1ec605-713f-43bf-a1a2-96ed65aa2c2f")
+		(uuid "1dcb95a4-3d2e-4502-8e80-64af19fea3f4")
+		(members "11ee4466-76fb-4afb-9847-f7dba0ce9b05" "27824f54-2c03-4de9-b0c7-a4188550ae68"
+			"40f740f4-d97a-4ea8-81d1-6b11c3b7c61d" "55f30a4f-182d-4ffd-b572-08c5deff47e0"
+			"5bad307d-ed99-4570-8022-7e17a3be4016" "9986bb04-0cfb-4385-aab9-24785cade5a2"
+			"9afe8291-f161-47dc-bd5d-f9f8939e6f5b" "dcc870a6-5abd-4f75-abc5-4aef70000c79"
+		)
 	)
 	(group ""
 		(uuid "351a601c-9f01-4e25-864c-e24b0d330fe1")
@@ -70922,60 +70878,36 @@
 		)
 	)
 	(group ""
-		(uuid "35a3c023-8d3f-42de-8f36-bcfb93629c8c")
-		(members "09dc95ef-de6e-40eb-9fe7-b0c372758aaa" "c05071a8-98dd-4c04-bfcf-d3899900c468")
+		(uuid "397e07b0-8d59-4485-9b01-84629258a88b")
+		(members "152c9290-46e7-4fab-bda0-93921b77c3b7" "7be6297e-1b56-402d-a07f-6b5cfb71283f"
+			"8a7b396a-0809-4633-92f4-e2e4dd5e45db" "ace32c73-75eb-4693-896b-f544dcc19620"
+			"bd1bb30a-9a66-4ff6-a2dc-f14cdf0f49a5" "c11d09cd-4ad8-424f-af23-88f8df52de92"
+			"c607f649-9dd7-40de-9ea5-17f1b33ea03f" "f05127b9-4af4-480e-a64d-c86e4b8fb3cc"
+		)
 	)
 	(group ""
-		(uuid "4182ad7c-5584-44d2-9321-b01e3be13097")
-		(members "16cf60ab-1f67-41c0-8431-b04f2890d9ed" "7b5f2a51-7559-4b4b-ae01-b356b9997d80")
+		(uuid "560e944e-b9ee-4257-848d-7dc6dc1109ec")
+		(members "5da85320-fe18-4973-87b7-67f2bdbed561" "647a9af0-a42f-4f58-9b33-880dd978af04"
+			"6721d5b0-1855-4fda-9344-97b2621da1b6" "6da5c8dc-8cbe-4ce7-be6e-7313db4e289c"
+			"8b38e76f-9753-4a6d-9190-4d7c521da3fa" "cb2564f2-0dd2-40f3-944b-c56bd01b51cf"
+			"d59c1ca3-4b32-412c-bfd4-ef42eb5debe0" "ed2122a8-369d-4410-8571-69dc6ede5766"
+		)
 	)
 	(group ""
-		(uuid "42063fb2-9c51-41a9-aabc-88b53949d7cc")
-		(members "62c4091b-f6a5-49cd-b165-cb7a03430320" "72c3a156-c881-48b8-8aab-c60d9f71660e")
+		(uuid "601f7ad5-c55d-447b-9aeb-9c7185a3806b")
+		(members "045ce777-0b3f-456f-9c85-32f95e6fec4d" "10245fc5-0fb7-4b76-9ed4-923999efa509"
+			"4412fdc4-37c0-4b78-8282-d421b43fe97f" "7778160c-d8be-4fdc-b97e-7d20d614fb50"
+			"79f5e874-d350-41fb-aa10-6fc587a293d7" "9f9823ab-c987-4033-a85b-6396f25f3dcd"
+			"aedacb00-0875-4f4c-bae3-d779760792ac" "d38b6905-ae6f-4469-9ff7-6c3bccb0ed9c"
+		)
 	)
 	(group ""
-		(uuid "4f07a825-1327-450c-9a5d-5a73ed391a08")
-		(members "79f5e874-d350-41fb-aa10-6fc587a293d7" "e6ab26ef-6194-4b26-bd2b-f72377068266")
-	)
-	(group ""
-		(uuid "53e39cf6-0e44-4ace-9e0f-89303d13d66f")
-		(members "76e0fa07-b564-406d-850c-b8a6dea95a9a" "8bba2ba5-43ab-42ba-aa1e-6e83152b1234")
-	)
-	(group ""
-		(uuid "55008372-8920-45d7-86fd-ce85367ec046")
-		(members "5f6b1b2e-dedd-4b93-b49d-5e303107be07" "d85c8a05-824f-4a1c-998a-85be6c45bb91")
-	)
-	(group ""
-		(uuid "55262791-202e-450e-a2ee-c0a667dfec41")
-		(members "50a8f3f1-77fb-49c0-8999-d1efc589b724" "927b5e6d-4f24-4f05-b82f-d9d47fdbd6c7")
-	)
-	(group ""
-		(uuid "57cffbd3-fe9d-4d03-893c-7618176597cf")
-		(members "3ada25e4-e5b0-4cc6-9da2-fccc936d21d6" "9f9823ab-c987-4033-a85b-6396f25f3dcd")
-	)
-	(group ""
-		(uuid "587457b2-afdd-42e7-8506-c302011382af")
-		(members "646b6eca-6bb9-4935-b7f9-12b04067b2cf" "a17a8e22-a10d-4916-a59c-12d57d043884")
-	)
-	(group ""
-		(uuid "58c5adf9-92d4-4258-bb39-b7a2407e6be9")
-		(members "8b38e76f-9753-4a6d-9190-4d7c521da3fa" "f7094222-bfbe-42f7-b0af-63e9a542f4f6")
-	)
-	(group ""
-		(uuid "5aabd22a-c2b1-4396-b511-4a3513c55fc3")
-		(members "5bad307d-ed99-4570-8022-7e17a3be4016" "dccc9754-7329-44c0-adea-74971c818054")
-	)
-	(group ""
-		(uuid "608b60fb-6fd5-49a5-92fc-f83ef58cbb15")
-		(members "8fb6cc83-7aa5-4b08-a495-e73cb41db53c" "a0eaf4c1-937a-46d9-8cae-8863dd974808")
-	)
-	(group ""
-		(uuid "629aae09-b823-4234-b259-3d12632beff4")
-		(members "4036e441-49fd-4bf3-9134-b29ddd753065" "7778160c-d8be-4fdc-b97e-7d20d614fb50")
-	)
-	(group ""
-		(uuid "62b6e5d8-9a8f-4138-a0d0-f3c924121dff")
-		(members "7505a91f-8df5-44ba-9a02-ff64738d6398" "adfb17b4-0fff-4a31-b10e-a7c6f5f2f95d")
+		(uuid "651c5182-24ae-4969-8098-18f91f6bdefe")
+		(members "09dc95ef-de6e-40eb-9fe7-b0c372758aaa" "0d3b18da-6ce0-474c-a726-00f9b3ceaed8"
+			"50a8f3f1-77fb-49c0-8999-d1efc589b724" "76092a7c-435c-45f6-9c48-09902b904988"
+			"97f4ffdc-9738-419d-9144-1a58004f2c7f" "aa708e9f-75e5-4276-89ef-41e6a2d18cef"
+			"bcc6fb95-abd7-4b6b-ac3e-213c4384c55f" "d85c8a05-824f-4a1c-998a-85be6c45bb91"
+		)
 	)
 	(group ""
 		(uuid "652ed733-a1f2-4b35-870e-8f5f507c46e8")
@@ -70986,56 +70918,44 @@
 		)
 	)
 	(group ""
-		(uuid "65caf9fa-f74f-4c11-b294-c6ce1cdd2380")
-		(members "99933158-c1a8-43a3-9e50-9c8ac462f4bd" "af6fcec8-95d4-4067-b7c8-c56b1429a41c")
+		(uuid "66cf12df-94dd-4084-8552-11f511935b67")
+		(members "04357a7c-e0f2-4608-9d28-b2350bf99eee" "19389df8-7434-426c-b162-70101322134d"
+			"585b836f-9cac-42ec-ae1c-e80a3dbeffeb" "646b6eca-6bb9-4935-b7f9-12b04067b2cf"
+			"7913acab-c5bf-4f3c-9bb5-f435b6e673de" "8bba2ba5-43ab-42ba-aa1e-6e83152b1234"
+			"db3df717-cecc-4853-abd4-dad9a6a5bf72" "e7073990-415a-4a02-a211-34fa3b6002b1"
+		)
 	)
 	(group ""
-		(uuid "68328219-aa2e-4a20-b5c3-106a1952d054")
-		(members "22864441-6a7a-424b-bcd5-215a1808983c" "e48d1571-16f3-4a12-a3eb-45f5b3977641")
+		(uuid "6d46bbaa-3a3b-46d4-8438-8ddf7124a9a4")
+		(members "5d72d08e-ff57-4f86-89f4-4f61797a7bef" "61340ab2-e607-4aa4-86ca-e7dc115180fb"
+			"aa0e1399-9dee-43d1-b9d0-4b769632d72c" "b0f8b6e7-85c2-48d5-a1bf-8d4645450b8f"
+			"cb1ec605-713f-43bf-a1a2-96ed65aa2c2f" "cb5fe3db-7e04-48bd-b11f-18d048e57aef"
+			"d07a561b-b7f4-4ee5-9b17-96bf34b5cdbd" "fac6c428-98e5-459e-8f08-6638c90b3942"
+		)
 	)
 	(group ""
-		(uuid "686847d3-41db-4f6a-815a-9522ab3496b9")
-		(members "3f09a761-f5d2-469c-9a78-10a7232b0bbc" "76092a7c-435c-45f6-9c48-09902b904988")
+		(uuid "7cf90470-a934-4294-a20b-ade4c420e79f")
+		(members "0174ec5c-7ddb-4e40-b4a3-ee58f7e1ab0a" "4bea8cc3-04df-4c09-a0f2-71945a044293"
+			"4feed2f1-a333-427d-8f21-b28777a9d400" "72c3a156-c881-48b8-8aab-c60d9f71660e"
+			"99933158-c1a8-43a3-9e50-9c8ac462f4bd" "e6fc5363-070d-4a6e-9999-3eeede1c1cb5"
+			"eb85f057-0348-46f9-a641-c51d3a502a54" "f9ed03b3-e61f-465a-ba61-1615d96070cf"
+		)
 	)
 	(group ""
-		(uuid "7543db97-c60a-4126-93f2-a51dbe71f200")
-		(members "9986bb04-0cfb-4385-aab9-24785cade5a2" "b833e92d-7bbc-46a2-8b75-865f6ff5eb1c")
+		(uuid "88936e9d-0ede-4000-9528-ad156750f8de")
+		(members "0dc802bd-83c8-41cb-b726-9bd1798dace2" "7505a91f-8df5-44ba-9a02-ff64738d6398"
+			"7b5f2a51-7559-4b4b-ae01-b356b9997d80" "7f1498f4-cee4-40aa-a690-d260d49aca34"
+			"972774a4-177a-4c28-a832-4ed9cea44d43" "a0eaf4c1-937a-46d9-8cae-8863dd974808"
+			"a67d331a-704e-4eed-9690-e059ec7cf72a" "e48d1571-16f3-4a12-a3eb-45f5b3977641"
+		)
 	)
 	(group ""
-		(uuid "767bceeb-51cf-4076-b714-fcce56ac5269")
-		(members "489906a0-ed49-4940-a98c-3b7232ccdb5f" "4feed2f1-a333-427d-8f21-b28777a9d400")
-	)
-	(group ""
-		(uuid "7936e7ab-1a87-4611-a8df-8bacd49da588")
-		(members "cb5fe3db-7e04-48bd-b11f-18d048e57aef" "f05127b9-4af4-480e-a64d-c86e4b8fb3cc")
-	)
-	(group ""
-		(uuid "7b17b70e-c724-439e-a9b6-26fbd2b683ff")
-		(members "585b836f-9cac-42ec-ae1c-e80a3dbeffeb" "fadb1f26-12c6-4ee6-8ffa-adcd3e5ca1db")
-	)
-	(group ""
-		(uuid "8794bb15-6ea9-4ce0-b42b-5ee43e59c209")
-		(members "04357a7c-e0f2-4608-9d28-b2350bf99eee" "05cd4cb2-2adc-4fbd-ba60-68ec428bd827")
-	)
-	(group ""
-		(uuid "8847cede-acb2-4a94-a8f5-8f1a95656eda")
-		(members "5da85320-fe18-4973-87b7-67f2bdbed561" "a0bdf999-0394-4435-9f14-d20676370d3e")
-	)
-	(group ""
-		(uuid "88d9de56-846e-4599-a863-c296e5ee264f")
-		(members "9afe8291-f161-47dc-bd5d-f9f8939e6f5b" "e6680d7f-6c1d-4a6b-bc7a-acc256aac968")
-	)
-	(group ""
-		(uuid "8af75adb-e140-4703-9b76-c712fe40791f")
-		(members "ace32c73-75eb-4693-896b-f544dcc19620" "d07a561b-b7f4-4ee5-9b17-96bf34b5cdbd")
-	)
-	(group ""
-		(uuid "912539a3-f702-4d57-a588-e8d02f0a87fb")
-		(members "4ab77c24-2bd4-4c8d-b5a4-48c91752fc26" "eb85f057-0348-46f9-a641-c51d3a502a54")
-	)
-	(group ""
-		(uuid "93d9848a-16f3-4a34-aa73-371b4b1c8fc0")
-		(members "0dc802bd-83c8-41cb-b726-9bd1798dace2" "209f0266-1d1c-4aff-97c4-f0f803c6e7d6")
+		(uuid "8b21d2d2-b6f8-41b1-9763-73c435db73dd")
+		(members "0d3b23ba-84a3-4ce8-819e-581e4eeae277" "50bb53e6-6a04-420f-856e-d346a29acf6a"
+			"92264a4f-1198-4159-9206-e7207a8ebdf9" "a0bdf999-0394-4435-9f14-d20676370d3e"
+			"a4c61839-a439-4bb9-80c4-488cf91f5752" "d127c227-7474-44f9-97f2-8ecca13dbae0"
+			"f3f46c2b-8760-47d2-81ae-5acfa880129e" "f7094222-bfbe-42f7-b0af-63e9a542f4f6"
+		)
 	)
 	(group ""
 		(uuid "9937151c-f327-4f96-ab4e-0e73c7810b23")
@@ -71046,18 +70966,6 @@
 		)
 	)
 	(group ""
-		(uuid "9a2fc16a-e033-4349-b855-27274acfc1b0")
-		(members "a4c61839-a439-4bb9-80c4-488cf91f5752" "d59c1ca3-4b32-412c-bfd4-ef42eb5debe0")
-	)
-	(group ""
-		(uuid "9a807293-5c69-4db1-a8a2-58e62aed8a63")
-		(members "647a9af0-a42f-4f58-9b33-880dd978af04" "d127c227-7474-44f9-97f2-8ecca13dbae0")
-	)
-	(group ""
-		(uuid "9f95409f-2965-4a80-8daa-ffe0140eb26d")
-		(members "0d3b23ba-84a3-4ce8-819e-581e4eeae277" "6721d5b0-1855-4fda-9344-97b2621da1b6")
-	)
-	(group ""
 		(uuid "a083a746-7039-497b-bc48-a181176572fc")
 		(members "02ba9d4c-7738-424f-8779-7e429d67cc23" "367f6bbe-acac-4332-9e87-0296f7a882f3"
 			"46a901b7-c372-416c-a17b-6a69ed5cfef3" "53cc271e-baf3-4994-906f-8491ee76fee4"
@@ -71066,32 +70974,28 @@
 		)
 	)
 	(group ""
-		(uuid "aa09f087-dc15-4efd-a946-c2c10b7640af")
-		(members "cdd0532e-53b8-4f18-8136-34f5a15a5132" "dcc870a6-5abd-4f75-abc5-4aef70000c79")
+		(uuid "aea5519e-25fc-4b38-8016-ba144b5ac916")
+		(members "05cd4cb2-2adc-4fbd-ba60-68ec428bd827" "7000409e-d024-4d67-b36d-590770b846b6"
+			"76e0fa07-b564-406d-850c-b8a6dea95a9a" "79e31656-70d3-4859-bf63-3218f8efb10e"
+			"a1370ba9-611c-4ce1-ac1e-4d7c7d4f7710" "a17a8e22-a10d-4916-a59c-12d57d043884"
+			"a3016d44-a460-4360-b67e-d019ad28f8dd" "fadb1f26-12c6-4ee6-8ffa-adcd3e5ca1db"
+		)
 	)
 	(group ""
-		(uuid "abf7f570-6d77-4498-ad04-793d05e74363")
-		(members "4778bcc2-12db-42db-86d1-1596852b54b5" "4bea8cc3-04df-4c09-a0f2-71945a044293")
+		(uuid "b4fbd62a-e83d-4a8c-895b-3ab8bb6f9091")
+		(members "25630cdb-a95e-48a3-bfa6-4a293cd9ce88" "3ada25e4-e5b0-4cc6-9da2-fccc936d21d6"
+			"4036e441-49fd-4bf3-9134-b29ddd753065" "4b718d17-390f-4824-8420-a8cd71dfbec8"
+			"83b6e0f1-9b03-427b-8da4-3a1ae7a81695" "b67c253d-2d00-4066-acd7-ffb7104675ef"
+			"cba7ff98-4cb9-403e-aaae-14c4444ea524" "e6ab26ef-6194-4b26-bd2b-f72377068266"
+		)
 	)
 	(group ""
-		(uuid "ac81f861-428d-495c-bd7f-24ea7e24cbea")
-		(members "79e31656-70d3-4859-bf63-3218f8efb10e" "db3df717-cecc-4853-abd4-dad9a6a5bf72")
-	)
-	(group ""
-		(uuid "ae8ed42f-15f6-4fed-b80b-adfdbfc568f4")
-		(members "aedacb00-0875-4f4c-bae3-d779760792ac" "cba7ff98-4cb9-403e-aaae-14c4444ea524")
-	)
-	(group ""
-		(uuid "b5c48d19-b1bc-47ac-a5fd-b78630b88a42")
-		(members "92264a4f-1198-4159-9206-e7207a8ebdf9" "cb2564f2-0dd2-40f3-944b-c56bd01b51cf")
-	)
-	(group ""
-		(uuid "be41ff1f-c33b-4b56-956c-ae3a37cc7a45")
-		(members "a1370ba9-611c-4ce1-ac1e-4d7c7d4f7710" "e7073990-415a-4a02-a211-34fa3b6002b1")
-	)
-	(group ""
-		(uuid "bf621706-4357-45be-990a-9b3fa1adf361")
-		(members "39a27bfb-315b-4241-bf2b-094e78ab3930" "972774a4-177a-4c28-a832-4ed9cea44d43")
+		(uuid "c0339319-0d3e-4944-9cb1-2c59599e730c")
+		(members "446e13b5-0c07-45c0-99ff-c2685ebf3c3d" "4778bcc2-12db-42db-86d1-1596852b54b5"
+			"489906a0-ed49-4940-a98c-3b7232ccdb5f" "4ab77c24-2bd4-4c8d-b5a4-48c91752fc26"
+			"51b85902-816b-4da5-8bfa-849ced1bbde2" "62c4091b-f6a5-49cd-b165-cb7a03430320"
+			"af6fcec8-95d4-4067-b7c8-c56b1429a41c" "b9a58ef9-dd89-4a01-9843-b9b988c37cb1"
+		)
 	)
 	(group ""
 		(uuid "c1c08f13-ed8a-4fe7-a53d-164f9991ce09")
@@ -71102,22 +71006,6 @@
 		)
 	)
 	(group ""
-		(uuid "c278ac6c-a5ec-4447-a12b-1bdaaeb9de25")
-		(members "55096915-1df4-4e35-bd9e-b06a27dced4a" "bcc6fb95-abd7-4b6b-ac3e-213c4384c55f")
-	)
-	(group ""
-		(uuid "c5c1d2f1-0aee-4837-82cd-821d60d6d191")
-		(members "40f740f4-d97a-4ea8-81d1-6b11c3b7c61d" "b5f9084c-db96-40ec-b99a-c940e25796db")
-	)
-	(group ""
-		(uuid "c9c321c6-d3e7-4564-9799-5bdd785671d4")
-		(members "7f1498f4-cee4-40aa-a690-d260d49aca34" "cbbac8a4-227d-42ff-86a3-93912842a7fe")
-	)
-	(group ""
-		(uuid "ca599f10-390a-4270-8494-743c3956d756")
-		(members "0d3b18da-6ce0-474c-a726-00f9b3ceaed8" "2ae9e0c4-adff-452a-81d9-51c61baa509a")
-	)
-	(group ""
 		(uuid "cb754997-4bdd-4287-aaea-13682f3ade72")
 		(members "0735ef26-5635-4e28-b601-22670928d8f9" "3710eb14-5e2f-42f6-a8fe-73923f0f17e3"
 			"3ecf8144-70f2-4959-8b6b-e277cba7bdca" "51848bd0-5130-44da-ac78-efdfc8c21018"
@@ -71126,40 +71014,12 @@
 		)
 	)
 	(group ""
-		(uuid "d425477f-59a9-43e0-9c42-9e60714a712a")
-		(members "27824f54-2c03-4de9-b0c7-a4188550ae68" "db67bf14-4d07-45cc-b6b0-9fdb3c736f4f")
-	)
-	(group ""
-		(uuid "dde5db12-e281-40a4-9515-9881244be243")
-		(members "0174ec5c-7ddb-4e40-b4a3-ee58f7e1ab0a" "b9a58ef9-dd89-4a01-9843-b9b988c37cb1")
-	)
-	(group ""
-		(uuid "e1302c03-b87b-445d-9d8f-48901899aafd")
-		(members "10245fc5-0fb7-4b76-9ed4-923999efa509" "25630cdb-a95e-48a3-bfa6-4a293cd9ce88")
-	)
-	(group ""
-		(uuid "e33a75ff-3a4c-41f9-958f-221bd387e631")
-		(members "4b718d17-390f-4824-8420-a8cd71dfbec8" "d38b6905-ae6f-4469-9ff7-6c3bccb0ed9c")
-	)
-	(group ""
-		(uuid "e5b777c3-5204-4fd9-88df-724ed238e882")
-		(members "aa0e1399-9dee-43d1-b9d0-4b769632d72c" "c607f649-9dd7-40de-9ea5-17f1b33ea03f")
-	)
-	(group ""
-		(uuid "e7bf78ec-58e5-4982-a6ac-403c1b0762de")
-		(members "b0f8b6e7-85c2-48d5-a1bf-8d4645450b8f" "bd1bb30a-9a66-4ff6-a2dc-f14cdf0f49a5")
-	)
-	(group ""
-		(uuid "e8288a23-b172-4cca-8dac-ded9d45d3b03")
-		(members "1dccaf00-1a1f-40d4-a812-381fbe2a59ea" "97f4ffdc-9738-419d-9144-1a58004f2c7f")
-	)
-	(group ""
-		(uuid "eaef5104-99ee-4aa3-a004-c01b87e4d71f")
-		(members "8a7b396a-0809-4633-92f4-e2e4dd5e45db" "fac6c428-98e5-459e-8f08-6638c90b3942")
-	)
-	(group ""
-		(uuid "ef7dbfc6-3acb-48e6-a1f2-dd3f49bbc259")
-		(members "51b85902-816b-4da5-8bfa-849ced1bbde2" "e6fc5363-070d-4a6e-9999-3eeede1c1cb5")
+		(uuid "f0e8a2da-f49b-40cb-b8bb-e3d3e89c5826")
+		(members "aaff9cf3-cdce-4aed-b664-c23c5eae3312" "b5f9084c-db96-40ec-b99a-c940e25796db"
+			"b833e92d-7bbc-46a2-8b75-865f6ff5eb1c" "cdd0532e-53b8-4f18-8136-34f5a15a5132"
+			"db67bf14-4d07-45cc-b6b0-9fdb3c736f4f" "dccc9754-7329-44c0-adea-74971c818054"
+			"e6680d7f-6c1d-4a6b-bc7a-acc256aac968" "ead906d4-1d10-43fa-b8c6-ffe9922de11c"
+		)
 	)
 	(group ""
 		(uuid "f358b853-8f35-48e7-b8c2-18cc513d0de7")
@@ -71170,15 +71030,19 @@
 		)
 	)
 	(group ""
-		(uuid "f9032a00-9b6f-47d3-ac27-d83e147dc301")
-		(members "446e13b5-0c07-45c0-99ff-c2685ebf3c3d" "f9ed03b3-e61f-465a-ba61-1615d96070cf")
-	)
-	(group ""
 		(uuid "f93285f2-7c21-4808-83a7-128244a6c315")
 		(members "0b9720c0-0b08-46bb-bde4-02a6e047add5" "252fe272-5248-485b-b470-e8ab881651a0"
 			"374c7f16-091e-4a15-a03e-09347bdfc1e2" "7f65dce3-2c5f-4c86-aebf-f3bb73413e3e"
 			"a88afe70-a1c2-4666-9773-4ec31d5013d1" "e1a431a2-b20b-4cd5-882e-0000d11164ba"
 			"e28de372-82df-4981-bafc-18aacbe2a650" "e36fb9fa-f4cc-47b5-bc56-74c7617c37c8"
+		)
+	)
+	(group ""
+		(uuid "fcb3faae-23ed-4b2e-b93f-fc4675a14909")
+		(members "1dccaf00-1a1f-40d4-a812-381fbe2a59ea" "2ae9e0c4-adff-452a-81d9-51c61baa509a"
+			"3f09a761-f5d2-469c-9a78-10a7232b0bbc" "55096915-1df4-4e35-bd9e-b06a27dced4a"
+			"5f6b1b2e-dedd-4b93-b49d-5e303107be07" "927b5e6d-4f24-4f05-b82f-d9d47fdbd6c7"
+			"c05071a8-98dd-4c04-bfcf-d3899900c468" "c8bdb6e2-68d4-418e-834d-55d3eb3524e7"
 		)
 	)
 	(embedded_fonts no)
